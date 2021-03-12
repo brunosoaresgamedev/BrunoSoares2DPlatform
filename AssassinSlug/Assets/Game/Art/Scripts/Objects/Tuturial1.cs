@@ -5,8 +5,8 @@ using UnityEngine;
 public class Tuturial1 : MonoBehaviour { 
 
 
-private bool EnterCollider;
-    public GameObject TuturialCrouch;
+    private bool EnterCollider;
+    public GameObject Tuturial;
 
 // Start is called before the first frame update
 void Start()
@@ -23,8 +23,8 @@ private void OnTriggerEnter2D(Collider2D other)
 {
     if (other.gameObject.CompareTag("Player"))
     {
-            TuturialCrouch.SetActive(true);
-        EnterCollider = true;
+            Tuturial.SetActive(true);
+             EnterCollider = true;
     }
 }
 
@@ -32,8 +32,8 @@ private void OnTriggerExit2D(Collider2D other)
 {
     if (other.gameObject.CompareTag("Player"))
     {
-            TuturialCrouch.SetActive(false);
-        EnterCollider = false;
+            Tuturial.SetActive(false);
+            EnterCollider = false;
             //StartCoroutine(WaitAnim());
     }
     
