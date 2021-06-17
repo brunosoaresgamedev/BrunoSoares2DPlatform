@@ -9,8 +9,7 @@ public class UIManagerLT : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        LeanTween.moveLocalY(gameObject, 1,0f);
-        LeanTween.moveLocalY(gameObject, 0,1f);
+        
     }
 
 
