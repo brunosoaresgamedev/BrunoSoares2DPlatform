@@ -26,7 +26,7 @@ public class Collision : MonoBehaviour
         onLeftWall = Physics2D.OverlapCircle((Vector2) transform.position + leftOffset, collisionRadius, groundLayer);
         side = onRightWall ? 1 : -1;
     }
-
+ 
     private void OnDrawGizmos()
     {
         Gizmos.color = gizmoColor;
