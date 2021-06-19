@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Platformer2D.Character
 {
-    [RequireComponent(typeof(PlayerController))]
+    
     [RequireComponent(typeof(Rigidbody2D))]
     [RequireComponent(typeof(Collider2D))]
     public class CharacterMovement2D : MonoBehaviour
