@@ -947,6 +947,57 @@ TextureImporter:
   - first:
       213: 4722879276580523062
     second: Hook
+  - first:
+      213: -28461068214991928
+    second: slimes e bugg_36
+  - first:
+      213: 1060593861670724276
+    second: slimes e bugg_37
+  - first:
+      213: -3756472884979514565
+    second: slimes e bugg_144
+  - first:
+      213: 4187172839285403579
+    second: slimes e bugg_145
+  - first:
+      213: 7382386872435951822
+    second: slimes e bugg_146
+  - first:
+      213: -6770621338923019807
+    second: slimes e bugg_147
+  - first:
+      213: -682305197588217633
+    second: slimes e bugg_148
+  - first:
+      213: -4509237651537543322
+    second: slimes e bugg_149
+  - first:
+      213: 1842343371294460425
+    second: slimes e bugg_150
+  - first:
+      213: -37738477477103195
+    second: slimes e bugg_151
+  - first:
+      213: 1406607659543525953
+    second: slimes e bugg_152
+  - first:
+      213: -6882687520283169108
+    second: slimes e bugg_153
+  - first:
+      213: 7157012657203493759
+    second: slimes e bugg_154
+  - first:
+      213: 957144419503597639
+    second: slimes e bugg_155
+  - first:
+      213: 9101709189633489765
+    second: slimes e bugg_156
+  - first:
+      213: 1150660252431465495
+    second: slimes e bugg_157
+  - first:
+      213: 1723116859645646171
+    second: slimes e bugg_158
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1051,8 +1102,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1072,8 +1123,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1093,8 +1144,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1114,8 +1165,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1135,8 +1186,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1156,8 +1207,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1177,8 +1228,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1198,8 +1249,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1219,8 +1270,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1240,8 +1291,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1261,8 +1312,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1282,8 +1333,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1303,8 +1354,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1324,8 +1375,8 @@ TextureImporter:
         y: 1120
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1345,8 +1396,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1366,8 +1417,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1387,8 +1438,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1408,8 +1459,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1429,8 +1480,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1450,8 +1501,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1471,8 +1522,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1492,8 +1543,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1513,8 +1564,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1534,8 +1585,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1555,8 +1606,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1576,8 +1627,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1597,8 +1648,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1618,8 +1669,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1639,8 +1690,8 @@ TextureImporter:
         y: 1088
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1660,8 +1711,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1681,8 +1732,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1702,8 +1753,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1723,8 +1774,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1744,8 +1795,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1765,8 +1816,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1786,8 +1837,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1807,8 +1858,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1828,8 +1879,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1849,8 +1900,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1870,8 +1921,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1891,8 +1942,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1912,8 +1963,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1933,8 +1984,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1954,8 +2005,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1975,8 +2026,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1996,8 +2047,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2017,8 +2068,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2038,8 +2089,8 @@ TextureImporter:
         y: 1024
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2059,8 +2110,8 @@ TextureImporter:
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2080,8 +2131,8 @@ TextureImporter:
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2101,8 +2152,8 @@ TextureImporter:
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2122,8 +2173,8 @@ TextureImporter:
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2143,8 +2194,8 @@ TextureImporter:
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2160,12 +2211,12 @@ TextureImporter:
       name: slimes e bugg_63
       rect:
         serializedVersion: 2
-        x: 192
+        x: 160
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2181,12 +2232,12 @@ TextureImporter:
       name: slimes e bugg_64
       rect:
         serializedVersion: 2
-        x: 224
+        x: 192
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2202,12 +2253,12 @@ TextureImporter:
       name: slimes e bugg_65
       rect:
         serializedVersion: 2
-        x: 256
+        x: 224
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2223,12 +2274,12 @@ TextureImporter:
       name: slimes e bugg_66
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2244,12 +2295,12 @@ TextureImporter:
       name: slimes e bugg_67
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2265,12 +2316,12 @@ TextureImporter:
       name: slimes e bugg_68
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2286,12 +2337,12 @@ TextureImporter:
       name: slimes e bugg_69
       rect:
         serializedVersion: 2
-        x: 384
+        x: 352
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2307,12 +2358,12 @@ TextureImporter:
       name: slimes e bugg_70
       rect:
         serializedVersion: 2
-        x: 416
+        x: 384
         y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2328,12 +2379,12 @@ TextureImporter:
       name: slimes e bugg_71
       rect:
         serializedVersion: 2
-        x: 0
-        y: 960
+        x: 416
+        y: 992
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2349,12 +2400,12 @@ TextureImporter:
       name: slimes e bugg_72
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2370,12 +2421,12 @@ TextureImporter:
       name: slimes e bugg_73
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2391,12 +2442,12 @@ TextureImporter:
       name: slimes e bugg_74
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2412,12 +2463,12 @@ TextureImporter:
       name: slimes e bugg_75
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2433,12 +2484,12 @@ TextureImporter:
       name: slimes e bugg_76
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2454,12 +2505,12 @@ TextureImporter:
       name: slimes e bugg_77
       rect:
         serializedVersion: 2
-        x: 256
+        x: 160
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2475,12 +2526,12 @@ TextureImporter:
       name: slimes e bugg_78
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2496,12 +2547,12 @@ TextureImporter:
       name: slimes e bugg_79
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2517,12 +2568,12 @@ TextureImporter:
       name: slimes e bugg_80
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2538,12 +2589,12 @@ TextureImporter:
       name: slimes e bugg_81
       rect:
         serializedVersion: 2
-        x: 384
+        x: 352
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2559,12 +2610,12 @@ TextureImporter:
       name: slimes e bugg_82
       rect:
         serializedVersion: 2
-        x: 416
+        x: 384
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2580,12 +2631,12 @@ TextureImporter:
       name: slimes e bugg_83
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2601,12 +2652,12 @@ TextureImporter:
       name: slimes e bugg_84
       rect:
         serializedVersion: 2
-        x: 0
-        y: 928
+        x: 448
+        y: 960
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2622,12 +2673,12 @@ TextureImporter:
       name: slimes e bugg_85
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2643,12 +2694,12 @@ TextureImporter:
       name: slimes e bugg_86
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2664,12 +2715,12 @@ TextureImporter:
       name: slimes e bugg_87
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2685,12 +2736,12 @@ TextureImporter:
       name: slimes e bugg_88
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2706,12 +2757,12 @@ TextureImporter:
       name: slimes e bugg_89
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2727,12 +2778,12 @@ TextureImporter:
       name: slimes e bugg_90
       rect:
         serializedVersion: 2
-        x: 192
+        x: 160
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2748,12 +2799,12 @@ TextureImporter:
       name: slimes e bugg_91
       rect:
         serializedVersion: 2
-        x: 224
+        x: 192
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2769,12 +2820,12 @@ TextureImporter:
       name: slimes e bugg_92
       rect:
         serializedVersion: 2
-        x: 256
+        x: 224
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2790,12 +2841,12 @@ TextureImporter:
       name: slimes e bugg_93
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2811,12 +2862,12 @@ TextureImporter:
       name: slimes e bugg_94
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2832,12 +2883,12 @@ TextureImporter:
       name: slimes e bugg_95
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2853,12 +2904,12 @@ TextureImporter:
       name: slimes e bugg_96
       rect:
         serializedVersion: 2
-        x: 384
+        x: 352
         y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2874,12 +2925,12 @@ TextureImporter:
       name: slimes e bugg_97
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
+        x: 384
+        y: 928
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2895,12 +2946,12 @@ TextureImporter:
       name: slimes e bugg_98
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2916,12 +2967,12 @@ TextureImporter:
       name: slimes e bugg_101
       rect:
         serializedVersion: 2
-        x: 128
+        x: 96
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2937,12 +2988,12 @@ TextureImporter:
       name: slimes e bugg_102
       rect:
         serializedVersion: 2
-        x: 160
+        x: 128
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2958,12 +3009,12 @@ TextureImporter:
       name: slimes e bugg_103
       rect:
         serializedVersion: 2
-        x: 192
+        x: 160
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2979,12 +3030,12 @@ TextureImporter:
       name: slimes e bugg_104
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3000,12 +3051,12 @@ TextureImporter:
       name: slimes e bugg_105
       rect:
         serializedVersion: 2
-        x: 288
+        x: 256
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3021,12 +3072,12 @@ TextureImporter:
       name: slimes e bugg_113
       rect:
         serializedVersion: 2
-        x: 0
-        y: 864
+        x: 512
+        y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3039,48 +3090,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slimes e bugg_36
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 1056
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad0acfc4dfe806d10800000000000000
-      internalID: 2116849043433627866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slimes e bugg_37
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 1056
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55df5af9091a68060800000000000000
-      internalID: 6955424317046127957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: slimes e bugg_38
       rect:
         serializedVersion: 2
@@ -3088,8 +3097,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3109,8 +3118,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3130,8 +3139,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3151,8 +3160,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3172,8 +3181,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3193,8 +3202,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3214,8 +3223,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3235,8 +3244,8 @@ TextureImporter:
         y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3252,12 +3261,12 @@ TextureImporter:
       name: slimes e bugg_107
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3273,12 +3282,12 @@ TextureImporter:
       name: slimes e bugg_109
       rect:
         serializedVersion: 2
-        x: 416
+        x: 384
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3294,12 +3303,12 @@ TextureImporter:
       name: slimes e bugg_111
       rect:
         serializedVersion: 2
-        x: 480
+        x: 448
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3315,12 +3324,12 @@ TextureImporter:
       name: slimes e bugg_114
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3337,11 +3346,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 800
+        y: 832
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3357,12 +3366,12 @@ TextureImporter:
       name: slimes e bugg_99
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3378,12 +3387,12 @@ TextureImporter:
       name: slimes e bugg_100
       rect:
         serializedVersion: 2
-        x: 96
+        x: 64
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3399,12 +3408,12 @@ TextureImporter:
       name: slimes e bugg_106
       rect:
         serializedVersion: 2
-        x: 320
+        x: 288
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3420,12 +3429,12 @@ TextureImporter:
       name: slimes e bugg_108
       rect:
         serializedVersion: 2
-        x: 384
+        x: 352
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3441,12 +3450,12 @@ TextureImporter:
       name: slimes e bugg_110
       rect:
         serializedVersion: 2
-        x: 448
+        x: 416
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3462,12 +3471,12 @@ TextureImporter:
       name: slimes e bugg_112
       rect:
         serializedVersion: 2
-        x: 512
+        x: 480
         y: 896
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3483,12 +3492,12 @@ TextureImporter:
       name: slimes e bugg_115
       rect:
         serializedVersion: 2
-        x: 64
+        x: 32
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3504,12 +3513,12 @@ TextureImporter:
       name: slimes e bugg_116
       rect:
         serializedVersion: 2
-        x: 128
+        x: 64
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3525,12 +3534,12 @@ TextureImporter:
       name: slimes e bugg_117
       rect:
         serializedVersion: 2
-        x: 256
+        x: 128
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3546,12 +3555,12 @@ TextureImporter:
       name: slimes e bugg_118
       rect:
         serializedVersion: 2
-        x: 288
+        x: 160
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3567,12 +3576,12 @@ TextureImporter:
       name: slimes e bugg_119
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3588,12 +3597,12 @@ TextureImporter:
       name: slimes e bugg_120
       rect:
         serializedVersion: 2
-        x: 352
+        x: 288
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3609,12 +3618,12 @@ TextureImporter:
       name: slimes e bugg_121
       rect:
         serializedVersion: 2
-        x: 384
+        x: 320
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3630,12 +3639,12 @@ TextureImporter:
       name: slimes e bugg_122
       rect:
         serializedVersion: 2
-        x: 416
+        x: 352
         y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3651,12 +3660,12 @@ TextureImporter:
       name: slimes e bugg_123
       rect:
         serializedVersion: 2
-        x: 0
-        y: 832
+        x: 384
+        y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3672,12 +3681,12 @@ TextureImporter:
       name: slimes e bugg_124
       rect:
         serializedVersion: 2
-        x: 32
-        y: 832
+        x: 416
+        y: 864
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3694,11 +3703,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 800
+        y: 832
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3714,12 +3723,12 @@ TextureImporter:
       name: slimes e bugg_127
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 800
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3735,12 +3744,12 @@ TextureImporter:
       name: slimes e bugg_128
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 800
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3756,12 +3765,12 @@ TextureImporter:
       name: slimes e bugg_129
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
+        x: 64
+        y: 800
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3777,12 +3786,12 @@ TextureImporter:
       name: slimes e bugg_130
       rect:
         serializedVersion: 2
-        x: 32
-        y: 768
+        x: 96
+        y: 800
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3798,12 +3807,12 @@ TextureImporter:
       name: slimes e bugg_131
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3819,12 +3828,12 @@ TextureImporter:
       name: slimes e bugg_132
       rect:
         serializedVersion: 2
-        x: 96
+        x: 32
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3840,12 +3849,12 @@ TextureImporter:
       name: slimes e bugg_133
       rect:
         serializedVersion: 2
-        x: 128
+        x: 64
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3861,12 +3870,12 @@ TextureImporter:
       name: slimes e bugg_134
       rect:
         serializedVersion: 2
-        x: 160
+        x: 96
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3882,12 +3891,12 @@ TextureImporter:
       name: slimes e bugg_135
       rect:
         serializedVersion: 2
-        x: 192
+        x: 128
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3903,12 +3912,12 @@ TextureImporter:
       name: slimes e bugg_136
       rect:
         serializedVersion: 2
-        x: 224
+        x: 160
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3924,12 +3933,12 @@ TextureImporter:
       name: slimes e bugg_137
       rect:
         serializedVersion: 2
-        x: 256
+        x: 192
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3945,12 +3954,12 @@ TextureImporter:
       name: slimes e bugg_138
       rect:
         serializedVersion: 2
-        x: 288
+        x: 224
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3966,12 +3975,12 @@ TextureImporter:
       name: slimes e bugg_139
       rect:
         serializedVersion: 2
-        x: 320
+        x: 256
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3987,12 +3996,12 @@ TextureImporter:
       name: slimes e bugg_140
       rect:
         serializedVersion: 2
-        x: 352
+        x: 288
         y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4008,12 +4017,12 @@ TextureImporter:
       name: slimes e bugg_141
       rect:
         serializedVersion: 2
-        x: 0
-        y: 736
+        x: 320
+        y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4029,12 +4038,12 @@ TextureImporter:
       name: slimes e bugg_142
       rect:
         serializedVersion: 2
-        x: 32
-        y: 736
+        x: 352
+        y: 768
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4050,12 +4059,12 @@ TextureImporter:
       name: slimes e bugg_143
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 736
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4068,22 +4077,64 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: slimes e bugg_144
+      name: slimes e bugg_36
       rect:
         serializedVersion: 2
-        x: 96
-        y: 736
+        x: 224
+        y: 1056
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62a9ddcb56fa57390800000000000000
-      internalID: -7821152326363801050
+      spriteID: 8c30e1b2fc2ea9ff0800000000000000
+      internalID: -28461068214991928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e7d77f7cf7be00800000000000000
+      internalID: 1060593861670724276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c86250d35edbc0800000000000000
+      internalID: -3756472884979514565
       vertices: []
       indices: 
       edges: []
@@ -4092,19 +4143,19 @@ TextureImporter:
       name: slimes e bugg_145
       rect:
         serializedVersion: 2
-        x: 0
-        y: 704
+        x: 64
+        y: 736
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e8e82c21b792c460800000000000000
-      internalID: 7260532336480544997
+      spriteID: bbf25c24383db1a30800000000000000
+      internalID: 4187172839285403579
       vertices: []
       indices: 
       edges: []
@@ -4113,19 +4164,19 @@ TextureImporter:
       name: slimes e bugg_146
       rect:
         serializedVersion: 2
-        x: 32
-        y: 704
+        x: 96
+        y: 736
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 612906177879c3580800000000000000
-      internalID: -8846028960083963370
+      spriteID: ec84d063fb1837660800000000000000
+      internalID: 7382386872435951822
       vertices: []
       indices: 
       edges: []
@@ -4134,19 +4185,19 @@ TextureImporter:
       name: slimes e bugg_147
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 704
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e44766823e9efe290800000000000000
-      internalID: -7858805662893575090
+      spriteID: 1e150d8b3cbe902a0800000000000000
+      internalID: -6770621338923019807
       vertices: []
       indices: 
       edges: []
@@ -4155,19 +4206,19 @@ TextureImporter:
       name: slimes e bugg_148
       rect:
         serializedVersion: 2
-        x: 0
-        y: 672
+        x: 32
+        y: 704
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5b986f8609325650800000000000000
-      internalID: 6220096735690660699
+      spriteID: fd00a5da907f786f0800000000000000
+      internalID: -682305197588217633
       vertices: []
       indices: 
       edges: []
@@ -4176,19 +4227,19 @@ TextureImporter:
       name: slimes e bugg_149
       rect:
         serializedVersion: 2
-        x: 32
-        y: 672
+        x: 64
+        y: 704
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74405b512a36ee860800000000000000
-      internalID: 7561090372201677895
+      spriteID: 66fb9443f38fb61c0800000000000000
+      internalID: -4509237651537543322
       vertices: []
       indices: 
       edges: []
@@ -4197,19 +4248,19 @@ TextureImporter:
       name: slimes e bugg_150
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 672
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f644ba8c69e2a9be0800000000000000
-      internalID: -1469811103236406161
+      spriteID: 90a4d48f881519910800000000000000
+      internalID: 1842343371294460425
       vertices: []
       indices: 
       edges: []
@@ -4218,19 +4269,19 @@ TextureImporter:
       name: slimes e bugg_151
       rect:
         serializedVersion: 2
-        x: 0
-        y: 640
+        x: 32
+        y: 672
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30e4cdd0589870c70800000000000000
-      internalID: 8937263190096236035
+      spriteID: 5a9fc9ffd0de97ff0800000000000000
+      internalID: -37738477477103195
       vertices: []
       indices: 
       edges: []
@@ -4239,19 +4290,19 @@ TextureImporter:
       name: slimes e bugg_152
       rect:
         serializedVersion: 2
-        x: 32
-        y: 640
+        x: 64
+        y: 672
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4564ed23707347d0800000000000000
-      internalID: -2935378892121938609
+      spriteID: 14a7f6db636458310800000000000000
+      internalID: 1406607659543525953
       vertices: []
       indices: 
       edges: []
@@ -4260,19 +4311,19 @@ TextureImporter:
       name: slimes e bugg_153
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 640
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2a062dea0a3cad20800000000000000
-      internalID: 3291069246303767084
+      spriteID: caee1859a28cb70a0800000000000000
+      internalID: -6882687520283169108
       vertices: []
       indices: 
       edges: []
@@ -4281,19 +4332,19 @@ TextureImporter:
       name: slimes e bugg_154
       rect:
         serializedVersion: 2
-        x: 0
-        y: 608
+        x: 32
+        y: 640
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 518dbd399acc4c5f0800000000000000
-      internalID: -737239410279720939
+      spriteID: f7bb69d9711d25360800000000000000
+      internalID: 7157012657203493759
       vertices: []
       indices: 
       edges: []
@@ -4302,19 +4353,19 @@ TextureImporter:
       name: slimes e bugg_155
       rect:
         serializedVersion: 2
-        x: 32
-        y: 608
+        x: 64
+        y: 640
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94bbffdc6a4a02650800000000000000
-      internalID: 6206141322844158793
+      spriteID: 748624347c5784d00800000000000000
+      internalID: 957144419503597639
       vertices: []
       indices: 
       edges: []
@@ -4323,19 +4374,19 @@ TextureImporter:
       name: slimes e bugg_156
       rect:
         serializedVersion: 2
-        x: 64
+        x: 0
         y: 608
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ce7a920dca7d11f0800000000000000
-      internalID: -1072566115313746235
+      spriteID: 56b3309f844cf4e70800000000000000
+      internalID: 9101709189633489765
       vertices: []
       indices: 
       edges: []
@@ -4344,40 +4395,40 @@ TextureImporter:
       name: slimes e bugg_157
       rect:
         serializedVersion: 2
-        x: 160
-        y: 992
+        x: 32
+        y: 608
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a8738038716c8410800000000000000
-      internalID: 1480665546335942816
+      spriteID: 71cb6533767f7ff00800000000000000
+      internalID: 1150660252431465495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hook
+      name: slimes e bugg_158
       rect:
         serializedVersion: 2
-        x: 175
-        y: 883
-        width: 6
-        height: 3
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63cc2addda90b8140800000000000000
-      internalID: 4722879276580523062
+      spriteID: b555aa587adb9e710800000000000000
+      internalID: 1723116859645646171
       vertices: []
       indices: 
       edges: []

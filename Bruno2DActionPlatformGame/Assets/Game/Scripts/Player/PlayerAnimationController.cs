@@ -11,25 +11,45 @@ public static class CharacterMovementAnimationKeys
     public const string IsGrounded = "IsGrounded";
 }
 
+public static class EnemyAnimationKeys
+{
+    public const string IsChasing = "IsChasing";
+}
 
 public class PlayerAnimationController : MonoBehaviour
 {
     Animator animator;
     CharacterMovement2D playerMovement;
-
+    EnemieAIController aIController;
+    PlayerController playerController;
     private void Awake()
     {
+        aIController = GetComponent<EnemieAIController>();
         animator = GetComponent<Animator>();
         playerMovement = GetComponent<CharacterMovement2D>();
+        playerController = GetComponent<PlayerController>();
 
-       
+
+
     }
     private void Update()
     {
         
-        animator.SetBool(CharacterMovementAnimationKeys.IsCrouching, playerMovement.IsCrouching);
+        
         animator.SetFloat(CharacterMovementAnimationKeys.HorizontalSpeed, playerMovement.CurrentVelocity.x / playerMovement.MaxGroundSpeed);
-        animator.SetFloat(CharacterMovementAnimationKeys.VerticalSpeed, playerMovement.CurrentVelocity.y / playerMovement.JumpSpeed);
-        animator.SetBool(CharacterMovementAnimationKeys.IsGrounded, playerMovement.IsGrounded);
+        if (playerController != null)
+        {
+
+
+            animator.SetBool(CharacterMovementAnimationKeys.IsCrouching, playerMovement.IsCrouching);
+            animator.SetFloat(CharacterMovementAnimationKeys.VerticalSpeed, playerMovement.CurrentVelocity.y / playerMovement.JumpSpeed);
+            animator.SetBool(CharacterMovementAnimationKeys.IsGrounded, playerMovement.IsGrounded);
+        }
+
+        if(aIController != null)
+        {
+            animator.SetBool(EnemyAnimationKeys.IsChasing, aIController.isChasing);
+        }
+        
     }
 }

@@ -1,42 +1,35 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(SpriteRenderer))]
 public class CharacterFacing2D : MonoBehaviour
 {
-    private PlayerInput playerInput;
-    public bool facingRight = true;
+        SpriteRenderer spriteRenderer;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        private void Start()
+        {
+            spriteRenderer = GetComponent<SpriteRenderer>();
+        }
+    
 
     public void UpdateFacing(Vector2 movementInput)
     { 
         
-        if (!facingRight && movementInput.x > 0)
+        if (movementInput.x > 0)
         {
-            Flip();
+            spriteRenderer.flipX = false;
         }
-        else if (facingRight && movementInput.x < 0)
+        else if (movementInput.x < 0)
         {
-            Flip();
+            spriteRenderer.flipX = true;
         }
     }
 
-    private void Flip()
+   public bool IsFacingRight()
     {
-        
-        facingRight = !facingRight;
-
-        transform.Rotate(0, 180, 0);
+        return spriteRenderer.flipX == false;
     }
+    
 }

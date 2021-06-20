@@ -10,6 +10,7 @@ public class EnemieAIController : MonoBehaviour
     CharacterMovement2D enemyMovement;
     public Vector2 movementInput;
 
+    public bool isChasing;
 
     // Start is called before the first frame update
     void Start()

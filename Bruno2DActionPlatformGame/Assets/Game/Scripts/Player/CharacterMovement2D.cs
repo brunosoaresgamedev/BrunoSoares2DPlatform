@@ -161,7 +161,7 @@ namespace Platformer2D.Character
                 rigidbody2d.gravityScale = 0;
                 StopImmediately();
                 int dir = 1;
-                if (!playerFacing.facingRight)
+                if (!playerFacing.IsFacingRight())
                     dir = -1;
                currentVelocity.x =  dir * dashForce;
                 Invoke("ReleaseDash", dashTime);
