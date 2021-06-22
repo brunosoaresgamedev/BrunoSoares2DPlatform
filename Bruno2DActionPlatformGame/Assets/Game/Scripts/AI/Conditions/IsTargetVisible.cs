@@ -30,4 +30,5 @@ public class IsTargetVisible : GOCondition
         return Time.time < forgetTargetTime;
      
     }
+    
 }
