@@ -70,7 +70,7 @@ MonoBehaviour:
     232.5834\" name=\"Priority Selector\" description=\"\" cardinality=\"1\" hasParent=\"False\">\r\n         
     <BehaviorTree id=\"0\" />\r\n          <PrioritySelectorNode id=\"7\" />\r\n       
     </data>\r\n      </_data>\r\n    </PrioritySelectorNode>\r\n    <ConditionEvalNode
-    id=\"8\">\r\n      <_data>\r\n        <data breakpoint=\"0\" selected=\"True\"
+    id=\"8\">\r\n      <_data>\r\n        <data breakpoint=\"0\" selected=\"False\"
     position=\"155.0732 428.6585\" name=\"Game/Perception/IsTargetVisible\" description=\"Eval\"
     cardinality=\"1\" hasParent=\"True\">\r\n          <BehaviorTree id=\"0\" />\r\n         
     <ConditionEvalNode id=\"8\" />\r\n          <PrioritySelectorNode id=\"7\" />\r\n       

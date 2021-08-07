@@ -5,28 +5,32 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterFacing2D))]
 public class AIVision : MonoBehaviour
 {
+   
     [Range(0.5f, 10.0f)]
     public float visionRange = 5;
     [Range(0, 180)]
     public float visionAngle = 30;
-
+    public bool isvisible;
 
     private CharacterFacing2D charFacing;
 
-   
+    
     private void Awake()
     {
+        
         charFacing = GetComponent<CharacterFacing2D>();
     }
     public bool IsVisible(GameObject target)
     {
         if(target == null)
         {
+            
             return false;
 
         }
         if(Vector2.Distance(transform.position,target.transform.position) > visionRange)
         {
+            
             return false;
         }
 
@@ -35,9 +39,11 @@ public class AIVision : MonoBehaviour
 
         if (Vector2.Angle(visionDirection, toTarget) > visionAngle / 2)
         {
+           
             return false;
         }
 
+        
         //TODO fazer ele n ver atravez da parede
         return true;
 
