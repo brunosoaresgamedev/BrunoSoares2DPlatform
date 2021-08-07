@@ -1,0 +1,4451 @@
+fileFormatVersion: 2
+guid: a8197bbe71eed064f8fa1c36b77b670e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1596131281935952821
+    second: slimes e bugg_0
+  - first:
+      213: 8037824026572254138
+    second: slimes e bugg_1
+  - first:
+      213: -5781197197502693178
+    second: slimes e bugg_2
+  - first:
+      213: 9146628062894047612
+    second: slimes e bugg_3
+  - first:
+      213: -7381486548970033665
+    second: slimes e bugg_4
+  - first:
+      213: 8611978764171013625
+    second: slimes e bugg_5
+  - first:
+      213: -4360392849479325744
+    second: slimes e bugg_6
+  - first:
+      213: -4516264681610383796
+    second: slimes e bugg_7
+  - first:
+      213: -4042950145957573329
+    second: slimes e bugg_8
+  - first:
+      213: -5511106760306018757
+    second: slimes e bugg_9
+  - first:
+      213: -1573771614196909848
+    second: slimes e bugg_10
+  - first:
+      213: 8806220550095658520
+    second: slimes e bugg_11
+  - first:
+      213: -1820943242778087323
+    second: slimes e bugg_12
+  - first:
+      213: -2938866880086498317
+    second: slimes e bugg_13
+  - first:
+      213: -2871059367357436274
+    second: slimes e bugg_14
+  - first:
+      213: -3436305781014333385
+    second: slimes e bugg_15
+  - first:
+      213: 8003207285706852875
+    second: slimes e bugg_16
+  - first:
+      213: -8796839613978436213
+    second: slimes e bugg_17
+  - first:
+      213: 2487410604200418945
+    second: slimes e bugg_18
+  - first:
+      213: -3836678470407598835
+    second: slimes e bugg_19
+  - first:
+      213: 8942834518154443702
+    second: slimes e bugg_20
+  - first:
+      213: 1536264764270373076
+    second: slimes e bugg_21
+  - first:
+      213: -3224096208711238752
+    second: slimes e bugg_22
+  - first:
+      213: 6949148380091392994
+    second: slimes e bugg_23
+  - first:
+      213: -9176703730838928188
+    second: slimes e bugg_24
+  - first:
+      213: 3300004091803249439
+    second: slimes e bugg_25
+  - first:
+      213: 1354368035591910853
+    second: slimes e bugg_26
+  - first:
+      213: -4819468376018362086
+    second: slimes e bugg_27
+  - first:
+      213: 2160214896795592449
+    second: slimes e bugg_28
+  - first:
+      213: -2447220704419764797
+    second: slimes e bugg_29
+  - first:
+      213: -282535860473573290
+    second: slimes e bugg_30
+  - first:
+      213: -8704178026562897602
+    second: slimes e bugg_31
+  - first:
+      213: 8368181255700628171
+    second: slimes e bugg_32
+  - first:
+      213: -1797754808537004264
+    second: slimes e bugg_33
+  - first:
+      213: 5904453559435827352
+    second: slimes e bugg_34
+  - first:
+      213: 3970600490061857477
+    second: slimes e bugg_35
+  - first:
+      213: 2116849043433627866
+    second: C1
+  - first:
+      213: 6955424317046127957
+    second: C4
+  - first:
+      213: 1699654532595618042
+    second: C3
+  - first:
+      213: 5163672884641509402
+    second: C2
+  - first:
+      213: -4288036178316312336
+    second: C5
+  - first:
+      213: 4525405531647554887
+    second: C6
+  - first:
+      213: -2312286387558514219
+    second: C7
+  - first:
+      213: -6725295368196912905
+    second: C8
+  - first:
+      213: 8573628512310953270
+    second: C9
+  - first:
+      213: 1655419231904867750
+    second: C10
+  - first:
+      213: -2403452906692507825
+    second: slimes e bugg_46
+  - first:
+      213: 1479490514919443500
+    second: slimes e bugg_47
+  - first:
+      213: -7642098383350755075
+    second: slimes e bugg_48
+  - first:
+      213: -1871052725647506260
+    second: slimes e bugg_49
+  - first:
+      213: 171233020372537467
+    second: slimes e bugg_50
+  - first:
+      213: 2550016031546412817
+    second: slimes e bugg_51
+  - first:
+      213: -9068244326670315000
+    second: slimes e bugg_52
+  - first:
+      213: -3819600399758719846
+    second: slimes e bugg_53
+  - first:
+      213: -9064940296253725118
+    second: slimes e bugg_54
+  - first:
+      213: 818485218777914072
+    second: slimes e bugg_55
+  - first:
+      213: -6982207909502403517
+    second: slimes e bugg_56
+  - first:
+      213: -2081428936085381044
+    second: slimes e bugg_57
+  - first:
+      213: 2324765783092066513
+    second: slimes e bugg_58
+  - first:
+      213: -880407489692962953
+    second: slimes e bugg_59
+  - first:
+      213: 153785621882753807
+    second: slimes e bugg_60
+  - first:
+      213: -5618174554710876431
+    second: slimes e bugg_61
+  - first:
+      213: 3425294176044177479
+    second: slimes e bugg_62
+  - first:
+      213: -2421699581458515374
+    second: slimes e bugg_63
+  - first:
+      213: -355588349375285087
+    second: slimes e bugg_64
+  - first:
+      213: -4308334982503502250
+    second: slimes e bugg_65
+  - first:
+      213: -8892098350077222852
+    second: slimes e bugg_66
+  - first:
+      213: -3203618560444312696
+    second: slimes e bugg_67
+  - first:
+      213: 3165942533337481031
+    second: slimes e bugg_68
+  - first:
+      213: 1140613354250464107
+    second: slimes e bugg_69
+  - first:
+      213: 7434869849667907493
+    second: slimes e bugg_70
+  - first:
+      213: 8649470192092665352
+    second: slimes e bugg_71
+  - first:
+      213: -6261368884899188396
+    second: slimes e bugg_72
+  - first:
+      213: 1302505606260307754
+    second: slimes e bugg_73
+  - first:
+      213: -548292948783794061
+    second: slimes e bugg_74
+  - first:
+      213: -7952382897841342034
+    second: slimes e bugg_75
+  - first:
+      213: 8101170508333747405
+    second: slimes e bugg_76
+  - first:
+      213: -1309296314839501152
+    second: slimes e bugg_77
+  - first:
+      213: 9101497999596019068
+    second: slimes e bugg_78
+  - first:
+      213: 4606045007420908579
+    second: slimes e bugg_79
+  - first:
+      213: -1815251922566472746
+    second: slimes e bugg_80
+  - first:
+      213: 890247626250351412
+    second: slimes e bugg_81
+  - first:
+      213: -8596458217428444574
+    second: slimes e bugg_82
+  - first:
+      213: -788533402005724981
+    second: slimes e bugg_83
+  - first:
+      213: 8441475627344898446
+    second: slimes e bugg_84
+  - first:
+      213: 588734173628606222
+    second: slimes e bugg_85
+  - first:
+      213: 8525170058220329401
+    second: slimes e bugg_86
+  - first:
+      213: 4031745309556997393
+    second: slimes e bugg_87
+  - first:
+      213: 7331365187184836848
+    second: slimes e bugg_88
+  - first:
+      213: -3650953005500591222
+    second: slimes e bugg_89
+  - first:
+      213: -423451751582636607
+    second: slimes e bugg_90
+  - first:
+      213: -8294370946994498394
+    second: slimes e bugg_91
+  - first:
+      213: 6540973421354620402
+    second: slimes e bugg_92
+  - first:
+      213: 3624049543014412077
+    second: slimes e bugg_93
+  - first:
+      213: 8287162821033219254
+    second: slimes e bugg_94
+  - first:
+      213: -6069414613868133471
+    second: slimes e bugg_95
+  - first:
+      213: 2756788605942709678
+    second: slimes e bugg_96
+  - first:
+      213: -6082321620570133810
+    second: slimes e bugg_97
+  - first:
+      213: -1536110505395703331
+    second: slimes e bugg_98
+  - first:
+      213: -3144281686670166452
+    second: slimes e bugg_99
+  - first:
+      213: 2630490634004005463
+    second: slimes e bugg_100
+  - first:
+      213: 8781204770222220780
+    second: slimes e bugg_101
+  - first:
+      213: -1220130736299446244
+    second: slimes e bugg_102
+  - first:
+      213: -8938412042429599669
+    second: slimes e bugg_103
+  - first:
+      213: 1268234054884163214
+    second: slimes e bugg_104
+  - first:
+      213: -7292223960555676313
+    second: slimes e bugg_105
+  - first:
+      213: 4651922924663269553
+    second: slimes e bugg_106
+  - first:
+      213: -3500428034804687923
+    second: slimes e bugg_107
+  - first:
+      213: -8983349878282499478
+    second: slimes e bugg_108
+  - first:
+      213: -1496757617230951249
+    second: slimes e bugg_109
+  - first:
+      213: 8588335752792737605
+    second: slimes e bugg_110
+  - first:
+      213: -3327906757647939330
+    second: slimes e bugg_111
+  - first:
+      213: 3558500642938307334
+    second: slimes e bugg_112
+  - first:
+      213: 8122266080412530171
+    second: slimes e bugg_113
+  - first:
+      213: 4923458534185583166
+    second: slimes e bugg_114
+  - first:
+      213: 8644447653391464129
+    second: slimes e bugg_115
+  - first:
+      213: 4506849108053199100
+    second: slimes e bugg_116
+  - first:
+      213: 649554990046535370
+    second: slimes e bugg_117
+  - first:
+      213: -7972276066108908773
+    second: slimes e bugg_118
+  - first:
+      213: -647248097194177216
+    second: slimes e bugg_119
+  - first:
+      213: 885553450059107904
+    second: slimes e bugg_120
+  - first:
+      213: 2866954676115076862
+    second: slimes e bugg_121
+  - first:
+      213: 7464309136224400430
+    second: slimes e bugg_0
+  - first:
+      213: -5974530573370020075
+    second: slimes e bugg_1
+  - first:
+      213: -4655467442903890931
+    second: slimes e bugg_2
+  - first:
+      213: -4161438334227178439
+    second: slimes e bugg_3
+  - first:
+      213: -831898685358130687
+    second: slimes e bugg_4
+  - first:
+      213: 6828067316729324686
+    second: slimes e bugg_5
+  - first:
+      213: -8682651692406990533
+    second: slimes e bugg_6
+  - first:
+      213: -1247714596864857326
+    second: slimes e bugg_7
+  - first:
+      213: 6325570714708277432
+    second: slimes e bugg_8
+  - first:
+      213: -2116011678252644248
+    second: slimes e bugg_9
+  - first:
+      213: -7816020662928657517
+    second: slimes e bugg_10
+  - first:
+      213: -4783289121408850039
+    second: slimes e bugg_11
+  - first:
+      213: -2024005334053126267
+    second: slimes e bugg_12
+  - first:
+      213: -5423261630248676369
+    second: slimes e bugg_13
+  - first:
+      213: 5321213773259365610
+    second: slimes e bugg_14
+  - first:
+      213: -5286581430301084998
+    second: slimes e bugg_15
+  - first:
+      213: -8923648212244826503
+    second: slimes e bugg_16
+  - first:
+      213: 4060129981298236432
+    second: slimes e bugg_17
+  - first:
+      213: 1939711382703339784
+    second: slimes e bugg_18
+  - first:
+      213: 2738066633015166352
+    second: slimes e bugg_19
+  - first:
+      213: 6526605576929028710
+    second: slimes e bugg_20
+  - first:
+      213: 2187751614780080445
+    second: slimes e bugg_21
+  - first:
+      213: 948571476029717754
+    second: slimes e bugg_22
+  - first:
+      213: -4600134960165739299
+    second: slimes e bugg_23
+  - first:
+      213: 211006475690263202
+    second: slimes e bugg_24
+  - first:
+      213: 6061707573979479005
+    second: slimes e bugg_25
+  - first:
+      213: -3097552799773865958
+    second: slimes e bugg_26
+  - first:
+      213: 8202005911560844802
+    second: slimes e bugg_27
+  - first:
+      213: -7092659665043204903
+    second: slimes e bugg_28
+  - first:
+      213: -5221308047764704556
+    second: slimes e bugg_29
+  - first:
+      213: 3734262910788955791
+    second: slimes e bugg_30
+  - first:
+      213: 7805511740970678613
+    second: slimes e bugg_31
+  - first:
+      213: -2597692112167177947
+    second: slimes e bugg_32
+  - first:
+      213: -4320209439314847100
+    second: slimes e bugg_33
+  - first:
+      213: 4323924197889122336
+    second: slimes e bugg_34
+  - first:
+      213: -6341461399596634523
+    second: slimes e bugg_35
+  - first:
+      213: -28461068214991928
+    second: c1
+  - first:
+      213: 1060593861670724276
+    second: c2
+  - first:
+      213: 2191054492673865158
+    second: slimes e bugg_38
+  - first:
+      213: 463103720645303708
+    second: slimes e bugg_39
+  - first:
+      213: 1265686218014388300
+    second: slimes e bugg_40
+  - first:
+      213: -4740851199842998441
+    second: slimes e bugg_41
+  - first:
+      213: 7443312493664828492
+    second: slimes e bugg_42
+  - first:
+      213: -4285321798379593180
+    second: slimes e bugg_43
+  - first:
+      213: 5950169905973788594
+    second: slimes e bugg_44
+  - first:
+      213: -4363664926457256535
+    second: slimes e bugg_45
+  - first:
+      213: 4981548637348932449
+    second: slimes e bugg_46
+  - first:
+      213: 3349752919306893515
+    second: slimes e bugg_47
+  - first:
+      213: -2809458865300515042
+    second: slimes e bugg_48
+  - first:
+      213: 1377584414914531912
+    second: slimes e bugg_49
+  - first:
+      213: 5457466517680397969
+    second: slimes e bugg_50
+  - first:
+      213: 6466313975029655007
+    second: slimes e bugg_51
+  - first:
+      213: -3945849621892077461
+    second: slimes e bugg_52
+  - first:
+      213: -2760251806858663916
+    second: slimes e bugg_53
+  - first:
+      213: 5216731402571710397
+    second: slimes e bugg_54
+  - first:
+      213: 7276776578693705383
+    second: slimes e bugg_55
+  - first:
+      213: -431452485797539941
+    second: slimes e bugg_56
+  - first:
+      213: -3822902103614486478
+    second: slimes e bugg_57
+  - first:
+      213: 4730261839261863387
+    second: slimes e bugg_58
+  - first:
+      213: 2355783041160171406
+    second: slimes e bugg_59
+  - first:
+      213: 2165898450425487833
+    second: slimes e bugg_60
+  - first:
+      213: -637717446032608282
+    second: slimes e bugg_61
+  - first:
+      213: 2580613989221083334
+    second: slimes e bugg_62
+  - first:
+      213: 2443896103421247470
+    second: slimes e bugg_63
+  - first:
+      213: 4893334687988832085
+    second: slimes e bugg_64
+  - first:
+      213: -3606145259782006984
+    second: slimes e bugg_65
+  - first:
+      213: 1362765652125516023
+    second: slimes e bugg_66
+  - first:
+      213: -3124928242591472253
+    second: slimes e bugg_67
+  - first:
+      213: -484947328858569482
+    second: slimes e bugg_68
+  - first:
+      213: 2975737835409530368
+    second: slimes e bugg_69
+  - first:
+      213: 4601076763483199393
+    second: slimes e bugg_70
+  - first:
+      213: -6959495628667479171
+    second: slimes e bugg_71
+  - first:
+      213: -5097330314734308239
+    second: slimes e bugg_72
+  - first:
+      213: -6271307680769198904
+    second: slimes e bugg_73
+  - first:
+      213: 2587493053400292200
+    second: slimes e bugg_74
+  - first:
+      213: -1896716946230290357
+    second: slimes e bugg_75
+  - first:
+      213: 832738928629701472
+    second: slimes e bugg_76
+  - first:
+      213: -7004685984435957228
+    second: slimes e bugg_77
+  - first:
+      213: -7045033321729179174
+    second: slimes e bugg_78
+  - first:
+      213: 5671768432663705355
+    second: slimes e bugg_79
+  - first:
+      213: -5346042526710627233
+    second: slimes e bugg_80
+  - first:
+      213: 6286743739527494563
+    second: slimes e bugg_81
+  - first:
+      213: 804651176705669175
+    second: slimes e bugg_82
+  - first:
+      213: 5152272738330932434
+    second: slimes e bugg_83
+  - first:
+      213: -2693006388141118528
+    second: slimes e bugg_84
+  - first:
+      213: -6017537824939763818
+    second: slimes e bugg_85
+  - first:
+      213: -1451923431033194910
+    second: slimes e bugg_86
+  - first:
+      213: -6717962171753155170
+    second: slimes e bugg_87
+  - first:
+      213: -3432753285393301578
+    second: slimes e bugg_88
+  - first:
+      213: 697311263537301937
+    second: slimes e bugg_89
+  - first:
+      213: 5410684519250044719
+    second: slimes e bugg_90
+  - first:
+      213: 509570710016948345
+    second: slimes e bugg_91
+  - first:
+      213: -992864365675544542
+    second: slimes e bugg_92
+  - first:
+      213: -8937108973690299524
+    second: slimes e bugg_93
+  - first:
+      213: -1024433779571578495
+    second: slimes e bugg_94
+  - first:
+      213: 7502255001369101472
+    second: slimes e bugg_95
+  - first:
+      213: 6291889692232482966
+    second: slimes e bugg_96
+  - first:
+      213: -820965871527543670
+    second: slimes e bugg_97
+  - first:
+      213: -7879483833090172511
+    second: slimes e bugg_98
+  - first:
+      213: -8039269550928633771
+    second: slimes e bugg_99
+  - first:
+      213: -6582913803853403972
+    second: slimes e bugg_100
+  - first:
+      213: -6449772847888705941
+    second: slimes e bugg_101
+  - first:
+      213: -4461300576785230692
+    second: slimes e bugg_102
+  - first:
+      213: -3639327402675277346
+    second: slimes e bugg_103
+  - first:
+      213: 1122902997951172435
+    second: slimes e bugg_104
+  - first:
+      213: 7025825150861542380
+    second: slimes e bugg_105
+  - first:
+      213: -2191338030828495367
+    second: slimes e bugg_106
+  - first:
+      213: 864095144227862233
+    second: slimes e bugg_112
+  - first:
+      213: -7213618856718108196
+    second: slimes e bugg_113
+  - first:
+      213: -5549687913836247223
+    second: slimes e bugg_122
+  - first:
+      213: -4899833702749214242
+    second: slimes e bugg_123
+  - first:
+      213: -3389557738456903355
+    second: slimes e bugg_124
+  - first:
+      213: -809848911460641085
+    second: slimes e bugg_125
+  - first:
+      213: -4118593634252974855
+    second: slimes e bugg_126
+  - first:
+      213: 2116849043433627866
+    second: c1
+  - first:
+      213: 6955424317046127957
+    second: c2
+  - first:
+      213: 1699654532595618042
+    second: slimes e bugg_38
+  - first:
+      213: 5163672884641509402
+    second: slimes e bugg_39
+  - first:
+      213: -4288036178316312336
+    second: slimes e bugg_40
+  - first:
+      213: 4525405531647554887
+    second: slimes e bugg_41
+  - first:
+      213: -2312286387558514219
+    second: slimes e bugg_42
+  - first:
+      213: -6725295368196912905
+    second: slimes e bugg_43
+  - first:
+      213: 8573628512310953270
+    second: slimes e bugg_44
+  - first:
+      213: 1655419231904867750
+    second: slimes e bugg_45
+  - first:
+      213: 3439745394855994935
+    second: slimes e bugg_107
+  - first:
+      213: -1366536350222975576
+    second: slimes e bugg_109
+  - first:
+      213: 4216682833468992730
+    second: slimes e bugg_111
+  - first:
+      213: 8148509884700850223
+    second: slimes e bugg_114
+  - first:
+      213: 4553077641447302809
+    second: slimes e bugg_126
+  - first:
+      213: -2337527613849075058
+    second: slimes e bugg_127
+  - first:
+      213: -4143542316011123302
+    second: slimes e bugg_128
+  - first:
+      213: 6948243120797939748
+    second: slimes e bugg_129
+  - first:
+      213: -5226191848774430063
+    second: slimes e bugg_130
+  - first:
+      213: -8431897448280034568
+    second: slimes e bugg_131
+  - first:
+      213: 3537557401022734313
+    second: slimes e bugg_132
+  - first:
+      213: 2973730784062854180
+    second: slimes e bugg_133
+  - first:
+      213: 8095869729323292375
+    second: slimes e bugg_134
+  - first:
+      213: -6309847667042902183
+    second: slimes e bugg_135
+  - first:
+      213: -1778711010926409490
+    second: slimes e bugg_136
+  - first:
+      213: -8473597908317638874
+    second: slimes e bugg_137
+  - first:
+      213: -1506023643936613931
+    second: slimes e bugg_138
+  - first:
+      213: -6633308067994186305
+    second: slimes e bugg_139
+  - first:
+      213: 1129635946150153016
+    second: slimes e bugg_140
+  - first:
+      213: -3943662962485672947
+    second: slimes e bugg_141
+  - first:
+      213: -2814961143561910053
+    second: slimes e bugg_142
+  - first:
+      213: -2182331310208857890
+    second: slimes e bugg_143
+  - first:
+      213: 2116849043433627866
+    second: slimes e bugg_36
+  - first:
+      213: 6955424317046127957
+    second: slimes e bugg_37
+  - first:
+      213: -3929336955081135902
+    second: slimes e bugg_108
+  - first:
+      213: -5447173547512794663
+    second: slimes e bugg_110
+  - first:
+      213: -2731935433357984815
+    second: slimes e bugg_115
+  - first:
+      213: 2908289926484128849
+    second: slimes e bugg_116
+  - first:
+      213: -4195898675383774184
+    second: slimes e bugg_117
+  - first:
+      213: 4455132494224595959
+    second: slimes e bugg_118
+  - first:
+      213: 1126437290543526885
+    second: slimes e bugg_119
+  - first:
+      213: 2814994919630267269
+    second: slimes e bugg_120
+  - first:
+      213: -3060895227454340654
+    second: slimes e bugg_121
+  - first:
+      213: 5992093740317644643
+    second: slimes e bugg_122
+  - first:
+      213: -6266222933036589063
+    second: slimes e bugg_123
+  - first:
+      213: 6420480343627984379
+    second: slimes e bugg_124
+  - first:
+      213: -7645268194067570013
+    second: slimes e bugg_125
+  - first:
+      213: 1448419447538428526
+    second: slimes e bugg_127
+  - first:
+      213: 3977810148822045173
+    second: slimes e bugg_128
+  - first:
+      213: 2954830482048986154
+    second: slimes e bugg_129
+  - first:
+      213: 6165819092529723164
+    second: slimes e bugg_130
+  - first:
+      213: 7670101711019455398
+    second: slimes e bugg_131
+  - first:
+      213: 1050443535428128263
+    second: slimes e bugg_132
+  - first:
+      213: -5371386142205507987
+    second: slimes e bugg_133
+  - first:
+      213: -1858093334950816280
+    second: slimes e bugg_134
+  - first:
+      213: 1738011807228604420
+    second: slimes e bugg_135
+  - first:
+      213: -6690037130301777067
+    second: slimes e bugg_136
+  - first:
+      213: 4900690513186510372
+    second: slimes e bugg_137
+  - first:
+      213: 8968977922110950719
+    second: slimes e bugg_138
+  - first:
+      213: -7633524428162643960
+    second: slimes e bugg_139
+  - first:
+      213: 6641261014620220946
+    second: slimes e bugg_140
+  - first:
+      213: -1373479787701559264
+    second: slimes e bugg_141
+  - first:
+      213: -8690533166763347324
+    second: slimes e bugg_142
+  - first:
+      213: -6206188362318811839
+    second: slimes e bugg_143
+  - first:
+      213: -7821152326363801050
+    second: slimes e bugg_144
+  - first:
+      213: 7260532336480544997
+    second: slimes e bugg_145
+  - first:
+      213: -8846028960083963370
+    second: slimes e bugg_146
+  - first:
+      213: -7858805662893575090
+    second: slimes e bugg_147
+  - first:
+      213: 6220096735690660699
+    second: slimes e bugg_148
+  - first:
+      213: 7561090372201677895
+    second: slimes e bugg_149
+  - first:
+      213: -1469811103236406161
+    second: slimes e bugg_150
+  - first:
+      213: 8937263190096236035
+    second: slimes e bugg_151
+  - first:
+      213: -2935378892121938609
+    second: slimes e bugg_152
+  - first:
+      213: 3291069246303767084
+    second: slimes e bugg_153
+  - first:
+      213: -737239410279720939
+    second: slimes e bugg_154
+  - first:
+      213: 6206141322844158793
+    second: slimes e bugg_155
+  - first:
+      213: -1072566115313746235
+    second: slimes e bugg_156
+  - first:
+      213: 1480665546335942816
+    second: slimes e bugg_157
+  - first:
+      213: 4722879276580523062
+    second: Hook
+  - first:
+      213: -28461068214991928
+    second: slimes e bugg_36
+  - first:
+      213: 1060593861670724276
+    second: slimes e bugg_37
+  - first:
+      213: -3756472884979514565
+    second: slimes e bugg_144
+  - first:
+      213: 4187172839285403579
+    second: slimes e bugg_145
+  - first:
+      213: 7382386872435951822
+    second: slimes e bugg_146
+  - first:
+      213: -6770621338923019807
+    second: slimes e bugg_147
+  - first:
+      213: -682305197588217633
+    second: slimes e bugg_148
+  - first:
+      213: -4509237651537543322
+    second: slimes e bugg_149
+  - first:
+      213: 1842343371294460425
+    second: slimes e bugg_150
+  - first:
+      213: -37738477477103195
+    second: slimes e bugg_151
+  - first:
+      213: 1406607659543525953
+    second: slimes e bugg_152
+  - first:
+      213: -6882687520283169108
+    second: slimes e bugg_153
+  - first:
+      213: 7157012657203493759
+    second: slimes e bugg_154
+  - first:
+      213: 957144419503597639
+    second: slimes e bugg_155
+  - first:
+      213: 9101709189633489765
+    second: slimes e bugg_156
+  - first:
+      213: 1150660252431465495
+    second: slimes e bugg_157
+  - first:
+      213: 1723116859645646171
+    second: slimes e bugg_158
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slimes e bugg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24bb5e9c9d869760800000000000000
+      internalID: 7464309136224400430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa1921914361da0800000000000000
+      internalID: -5974530573370020075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044152c605746fb0800000000000000
+      internalID: -4655467442903890931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c12bd12e99f36c0800000000000000
+      internalID: -4161438334227178439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3d12ad808474f0800000000000000
+      internalID: -831898685358130687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842b144c0b22ce50800000000000000
+      internalID: 6828067316729324686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3913a5d946018780800000000000000
+      internalID: -8682651692406990533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21becc05f2a3faee0800000000000000
+      internalID: -1247714596864857326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8fccbfc01f8c750800000000000000
+      internalID: 6325570714708277432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684c29f69a62a2e0800000000000000
+      internalID: -2116011678252644248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393360d3e9ae78390800000000000000
+      internalID: -7816020662928657517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9876f6413e75e9db0800000000000000
+      internalID: -4783289121408850039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f74405fd949e3e0800000000000000
+      internalID: -2024005334053126267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3950de744bcb4b0800000000000000
+      internalID: -5423261630248676369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5a09dbbfb8d940800000000000000
+      internalID: 5321213773259365610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23abad23a42a6b0800000000000000
+      internalID: -5286581430301084998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f8900b35d82480800000000000000
+      internalID: -8923648212244826503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd13dd4ba785830800000000000000
+      internalID: 4060129981298236432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80970dcb93d3bea10800000000000000
+      internalID: 1939711382703339784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095083888119ff520800000000000000
+      internalID: 2738066633015166352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a20f95139239a50800000000000000
+      internalID: 6526605576929028710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3101cf90847c5e10800000000000000
+      internalID: 2187751614780080445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb1d05bb00a2d00800000000000000
+      internalID: 948571476029717754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4277450a90920c0800000000000000
+      internalID: -4600134960165739299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a243dc8545ade200800000000000000
+      internalID: 211006475690263202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb77571ce28f1450800000000000000
+      internalID: 6061707573979479005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a184670e3284305d0800000000000000
+      internalID: -3097552799773865958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206fc34abe063d170800000000000000
+      internalID: 8202005911560844802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4db58fc9fc19d90800000000000000
+      internalID: -7092659665043204903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b8168eff2a87b0800000000000000
+      internalID: -5221308047764704556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eed771554c2d330800000000000000
+      internalID: 3734262910788955791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b2b2b29fb25c60800000000000000
+      internalID: 7805511740970678613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f07289c423fbd0800000000000000
+      internalID: -2597692112167177947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a595687688b04c0800000000000000
+      internalID: -4320209439314847100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a5ea162aa10c30800000000000000
+      internalID: 4323924197889122336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee030a47a9ef7a0800000000000000
+      internalID: -6341461399596634523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba380a714022540800000000000000
+      internalID: 4981548637348932449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87d984886bc7e20800000000000000
+      internalID: 3349752919306893515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d0b21c0cc209d0800000000000000
+      internalID: -2809458865300515042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84258130ab92e1310800000000000000
+      internalID: 1377584414914531912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9de702e0dcbb40800000000000000
+      internalID: 5457466517680397969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd569cfdc46fcb950800000000000000
+      internalID: 6466313975029655007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b686306cca68d39c0800000000000000
+      internalID: -3945849621892077461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4182f892b9d91b9d0800000000000000
+      internalID: -2760251806858663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf79ea329d856840800000000000000
+      internalID: 5216731402571710397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeabea8ebd4cf460800000000000000
+      internalID: 7276776578693705383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0496004c230af0800000000000000
+      internalID: -431452485797539941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23807f69ac252fac0800000000000000
+      internalID: -3822902103614486478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0acfa41445a140800000000000000
+      internalID: 4730261839261863387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fcd38c13c61b020800000000000000
+      internalID: 2355783041160171406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12e2d4a21de0e10800000000000000
+      internalID: 2165898450425487833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e338229c5f5627f0800000000000000
+      internalID: -637717446032608282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82de120ce20d320800000000000000
+      internalID: 2580613989221083334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7268ce867ae120800000000000000
+      internalID: 2443896103421247470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557dba409fd98e340800000000000000
+      internalID: 4893334687988832085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371c3e0ef564fdc0800000000000000
+      internalID: -3606145259782006984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08b0fe32489e210800000000000000
+      internalID: 1362765652125516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385efb7e15602a4d0800000000000000
+      internalID: -3124928242591472253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44c9849fe1549f0800000000000000
+      internalID: -484947328858569482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e56409bc1fb4920800000000000000
+      internalID: 2975737835409530368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a758b750fe4adf30800000000000000
+      internalID: 4601076763483199393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_71
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 992
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b14654997ea6f90800000000000000
+      internalID: -6959495628667479171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747e67e515a249b0800000000000000
+      internalID: -5097330314734308239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b29224e6d7f8a0800000000000000
+      internalID: -6271307680769198904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b17b2193f98e320800000000000000
+      internalID: 2587493053400292200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48da749cf18da5e0800000000000000
+      internalID: -1896716946230290357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdc9fb4ab7e8b00800000000000000
+      internalID: 832738928629701472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129986a53b5ace90800000000000000
+      internalID: -7004685984435957228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ca8325830b3e90800000000000000
+      internalID: -7045033321729179174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b135d65b26be40800000000000000
+      internalID: 5671768432663705355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54084185aa0fc5b0800000000000000
+      internalID: -5346042526710627233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab727c5f100f3750800000000000000
+      internalID: 6286743739527494563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73834a36bf1ba2b00800000000000000
+      internalID: 804651176705669175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f422f1cc808740800000000000000
+      internalID: 5152272738330932434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbadf845f480aad0800000000000000
+      internalID: -2693006388141118528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971df10b396d7ca0800000000000000
+      internalID: -6017537824939763818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663334055bb9dbe0800000000000000
+      internalID: -1451923431033194910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9534228ff005c2a0800000000000000
+      internalID: -6717962171753155170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb39e03196c50d0800000000000000
+      internalID: -3432753285393301578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9050156e85da900800000000000000
+      internalID: 697311263537301937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27aa9937ec961b40800000000000000
+      internalID: 5410684519250044719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978f0866cdb521700800000000000000
+      internalID: 509570710016948345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22004cdae13a832f0800000000000000
+      internalID: -992864365675544542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bdb304db209f380800000000000000
+      internalID: -8937108973690299524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a9b8b7ea78c1f0800000000000000
+      internalID: -1024433779571578495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c003dc2d5d1860800000000000000
+      internalID: 7502255001369101472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908577d658415750800000000000000
+      internalID: 6291889692232482966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb1e6b3e75b94f0800000000000000
+      internalID: -820965871527543670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91a3b733376a290800000000000000
+      internalID: -7879483833090172511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6652a764cdcd76a0800000000000000
+      internalID: -6449772847888705941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94987c23c64612c0800000000000000
+      internalID: -4461300576785230692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f13e52038e7dc0800000000000000
+      internalID: -3639327402675277346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc916c35a559f00800000000000000
+      internalID: 1122902997951172435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce38b1310ceb08160800000000000000
+      internalID: 7025825150861542380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f1448ed314eb90800000000000000
+      internalID: -7213618856718108196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09e30dac2669710800000000000000
+      internalID: 1699654532595618042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10bf59512d09a740800000000000000
+      internalID: 5163672884641509402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ce6790d5dd74c0800000000000000
+      internalID: -4288036178316312336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b07aba587dce30800000000000000
+      internalID: 4525405531647554887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18a9218cb19efd0800000000000000
+      internalID: -2312286387558514219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f80b09ae73faa2a0800000000000000
+      internalID: -6725295368196912905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358478f4b5abf670800000000000000
+      internalID: 8573628512310953270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a52a08450b39f610800000000000000
+      internalID: 1655419231904867750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366d2a463e6cbf20800000000000000
+      internalID: 3439745394855994935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfc400e66190de0800000000000000
+      internalID: -1366536350222975576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc286332baa48a30800000000000000
+      internalID: 4216682833468992730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287a564192551170800000000000000
+      internalID: 8148509884700850223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9966d3dddf7cf2f30800000000000000
+      internalID: 4553077641447302809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e843ffe6ce6090800000000000000
+      internalID: -8039269550928633771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86d4ee5cac4a4a0800000000000000
+      internalID: -6582913803853403972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd9a1dbadc691e0800000000000000
+      internalID: -2191338030828495367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e29d9bd03879c0800000000000000
+      internalID: -3929336955081135902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17896d480c764b0800000000000000
+      internalID: -5447173547512794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d677db94f1edfb00800000000000000
+      internalID: 864095144227862233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf461a237361ad0800000000000000
+      internalID: -2731935433357984815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154fee387425c5820800000000000000
+      internalID: 2908289926484128849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d734b26c25c5c0800000000000000
+      internalID: -4195898675383774184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb9e81366fc3dd30800000000000000
+      internalID: 4455132494224595959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b9946fb8e1af00800000000000000
+      internalID: 1126437290543526885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583671507fed01720800000000000000
+      internalID: 2814994919630267269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d145e802048585d0800000000000000
+      internalID: -3060895227454340654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_122
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36799746281382350800000000000000
+      internalID: 5992093740317644643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff92f83177e909a0800000000000000
+      internalID: -6266222933036589063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde259fad02a1950800000000000000
+      internalID: 6420480343627984379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a208751d86e590800000000000000
+      internalID: -7645268194067570013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aab4040d1d91410800000000000000
+      internalID: 1448419447538428526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15b784145043730800000000000000
+      internalID: 3977810148822045173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca6060baaa10920800000000000000
+      internalID: 2954830482048986154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173e87fbc3619550800000000000000
+      internalID: 6165819092529723164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33e644edca17a60800000000000000
+      internalID: 7670101711019455398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e8cc974dce39e00800000000000000
+      internalID: 1050443535428128263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66826233c00575b0800000000000000
+      internalID: -5371386142205507987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55cbad4f9b636e0800000000000000
+      internalID: -1858093334950816280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400bb41c788ae1810800000000000000
+      internalID: 1738011807228604420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5032eca63823a0800000000000000
+      internalID: -6690037130301777067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426db988e00c20440800000000000000
+      internalID: 4900690513186510372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8eb586e5387c70800000000000000
+      internalID: 8968977922110950719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808491b0af5401690800000000000000
+      internalID: -7633524428162643960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea615b4bf7a2c50800000000000000
+      internalID: 6641261014620220946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020aedbf86b60fce0800000000000000
+      internalID: -1373479787701559264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 768
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f1561126056780800000000000000
+      internalID: -8690533166763347324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14de2d6f0903fd9a0800000000000000
+      internalID: -6206188362318811839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30e1b2fc2ea9ff0800000000000000
+      internalID: -28461068214991928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e7d77f7cf7be00800000000000000
+      internalID: 1060593861670724276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33c86250d35edbc0800000000000000
+      internalID: -3756472884979514565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf25c24383db1a30800000000000000
+      internalID: 4187172839285403579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec84d063fb1837660800000000000000
+      internalID: 7382386872435951822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e150d8b3cbe902a0800000000000000
+      internalID: -6770621338923019807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00a5da907f786f0800000000000000
+      internalID: -682305197588217633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_149
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb9443f38fb61c0800000000000000
+      internalID: -4509237651537543322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a4d48f881519910800000000000000
+      internalID: 1842343371294460425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_151
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9fc9ffd0de97ff0800000000000000
+      internalID: -37738477477103195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a7f6db636458310800000000000000
+      internalID: 1406607659543525953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee1859a28cb70a0800000000000000
+      internalID: -6882687520283169108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb69d9711d25360800000000000000
+      internalID: 7157012657203493759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_155
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748624347c5784d00800000000000000
+      internalID: 957144419503597639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b3309f844cf4e70800000000000000
+      internalID: 9101709189633489765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb6533767f7ff00800000000000000
+      internalID: 1150660252431465495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimes e bugg_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555aa587adb9e710800000000000000
+      internalID: 1723116859645646171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
