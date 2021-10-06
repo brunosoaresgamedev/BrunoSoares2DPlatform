@@ -1,0 +1,3740 @@
+fileFormatVersion: 2
+guid: aa5e56b68273d5649a48b5051bf670dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2991773290986861209
+    second: Minotaur - Sprite Sheet_0
+  - first:
+      213: -3482560379574023985
+    second: Minotaur - Sprite Sheet_1
+  - first:
+      213: -4089556705372702670
+    second: Minotaur - Sprite Sheet_2
+  - first:
+      213: -7291498848502609278
+    second: Minotaur - Sprite Sheet_3
+  - first:
+      213: 5545791981575950956
+    second: Minotaur - Sprite Sheet_4
+  - first:
+      213: 2695833335711562302
+    second: Minotaur - Sprite Sheet_5
+  - first:
+      213: -4074518398165530191
+    second: Minotaur - Sprite Sheet_6
+  - first:
+      213: -1750775512566399208
+    second: Minotaur - Sprite Sheet_7
+  - first:
+      213: 1239450828636133216
+    second: Minotaur - Sprite Sheet_8
+  - first:
+      213: 7747281075459476067
+    second: Minotaur - Sprite Sheet_9
+  - first:
+      213: -4614463974701417080
+    second: Minotaur - Sprite Sheet_10
+  - first:
+      213: 576915257532028970
+    second: Minotaur - Sprite Sheet_11
+  - first:
+      213: 4346638377540470341
+    second: Minotaur - Sprite Sheet_12
+  - first:
+      213: 1250848107499723120
+    second: Minotaur - Sprite Sheet_13
+  - first:
+      213: 1345174075302067266
+    second: Minotaur - Sprite Sheet_14
+  - first:
+      213: -3047141049697780013
+    second: Minotaur - Sprite Sheet_15
+  - first:
+      213: -4721686386680584452
+    second: Minotaur - Sprite Sheet_16
+  - first:
+      213: 6078824932465409747
+    second: Minotaur - Sprite Sheet_17
+  - first:
+      213: 3529761326654160688
+    second: Minotaur - Sprite Sheet_18
+  - first:
+      213: 2444066426116628744
+    second: Minotaur - Sprite Sheet_19
+  - first:
+      213: 3498436388096465697
+    second: Minotaur - Sprite Sheet_20
+  - first:
+      213: -3370743376331586712
+    second: Minotaur - Sprite Sheet_21
+  - first:
+      213: 4680398535389692255
+    second: Minotaur - Sprite Sheet_22
+  - first:
+      213: 2555982017050634106
+    second: Minotaur - Sprite Sheet_23
+  - first:
+      213: 2019166692100933425
+    second: Minotaur - Sprite Sheet_24
+  - first:
+      213: 7985030344456610341
+    second: Minotaur - Sprite Sheet_25
+  - first:
+      213: -2461768399311767414
+    second: Minotaur - Sprite Sheet_26
+  - first:
+      213: -1318174199656842201
+    second: Minotaur - Sprite Sheet_27
+  - first:
+      213: 6790658768629077787
+    second: Minotaur - Sprite Sheet_28
+  - first:
+      213: 5713599903254542684
+    second: Minotaur - Sprite Sheet_29
+  - first:
+      213: -6343145856857976981
+    second: Minotaur - Sprite Sheet_30
+  - first:
+      213: -4575402595078847498
+    second: Minotaur - Sprite Sheet_31
+  - first:
+      213: 6929946831306801494
+    second: Minotaur - Sprite Sheet_32
+  - first:
+      213: -6711697137136033177
+    second: Minotaur - Sprite Sheet_33
+  - first:
+      213: -5216199358653021109
+    second: Minotaur - Sprite Sheet_34
+  - first:
+      213: -6496696599229819977
+    second: Minotaur - Sprite Sheet_35
+  - first:
+      213: -215884644848103954
+    second: Minotaur - Sprite Sheet_36
+  - first:
+      213: 1622942220838462593
+    second: Minotaur - Sprite Sheet_37
+  - first:
+      213: -6140590473612720252
+    second: Minotaur - Sprite Sheet_38
+  - first:
+      213: -1839828876958094298
+    second: Minotaur - Sprite Sheet_39
+  - first:
+      213: -8239091726997520733
+    second: Minotaur - Sprite Sheet_40
+  - first:
+      213: 1263595231250603967
+    second: Minotaur - Sprite Sheet_41
+  - first:
+      213: -616424306856935608
+    second: Minotaur - Sprite Sheet_42
+  - first:
+      213: 8378241899181544251
+    second: Minotaur - Sprite Sheet_43
+  - first:
+      213: 5188166441240543957
+    second: Minotaur - Sprite Sheet_44
+  - first:
+      213: -5605965328150943055
+    second: Minotaur - Sprite Sheet_45
+  - first:
+      213: -5768485365255475859
+    second: Minotaur - Sprite Sheet_46
+  - first:
+      213: -3059629280168621936
+    second: Minotaur - Sprite Sheet_47
+  - first:
+      213: 857875079894349242
+    second: Minotaur - Sprite Sheet_48
+  - first:
+      213: -5237954693817046891
+    second: Minotaur - Sprite Sheet_49
+  - first:
+      213: -1968232257398521338
+    second: Minotaur - Sprite Sheet_50
+  - first:
+      213: 5145797311468106170
+    second: Minotaur - Sprite Sheet_51
+  - first:
+      213: 426029563386839833
+    second: Minotaur - Sprite Sheet_52
+  - first:
+      213: 5759346277702969002
+    second: Minotaur - Sprite Sheet_53
+  - first:
+      213: 3306386442128967296
+    second: Minotaur - Sprite Sheet_54
+  - first:
+      213: 4155428142921795365
+    second: Minotaur - Sprite Sheet_55
+  - first:
+      213: 6105231115035382281
+    second: Minotaur - Sprite Sheet_56
+  - first:
+      213: -2785907607439944640
+    second: Minotaur - Sprite Sheet_57
+  - first:
+      213: 2434353118447297337
+    second: Minotaur - Sprite Sheet_58
+  - first:
+      213: -3147928011287162876
+    second: Minotaur - Sprite Sheet_59
+  - first:
+      213: 354855910647564550
+    second: Minotaur - Sprite Sheet_60
+  - first:
+      213: -8763315961783301391
+    second: Minotaur - Sprite Sheet_61
+  - first:
+      213: 3657297261627308697
+    second: Minotaur - Sprite Sheet_62
+  - first:
+      213: 8288805676293017391
+    second: Minotaur - Sprite Sheet_63
+  - first:
+      213: -3774656250847290719
+    second: Minotaur - Sprite Sheet_64
+  - first:
+      213: 32720182381953518
+    second: Minotaur - Sprite Sheet_65
+  - first:
+      213: 2349914242684700022
+    second: Minotaur - Sprite Sheet_66
+  - first:
+      213: -882440018598375077
+    second: Minotaur - Sprite Sheet_67
+  - first:
+      213: 2612163540546220349
+    second: Minotaur - Sprite Sheet_68
+  - first:
+      213: 3841225846447293946
+    second: Minotaur - Sprite Sheet_69
+  - first:
+      213: -2212767070804018757
+    second: Minotaur - Sprite Sheet_70
+  - first:
+      213: 2506497332472183498
+    second: Minotaur - Sprite Sheet_71
+  - first:
+      213: 3399484226666398890
+    second: Minotaur - Sprite Sheet_72
+  - first:
+      213: 7268152170869980056
+    second: Minotaur - Sprite Sheet_73
+  - first:
+      213: -5556616691159188244
+    second: Minotaur - Sprite Sheet_74
+  - first:
+      213: 7227084501268700410
+    second: Minotaur - Sprite Sheet_75
+  - first:
+      213: -1357774306129571256
+    second: Minotaur - Sprite Sheet_76
+  - first:
+      213: -5852016149217355196
+    second: Minotaur - Sprite Sheet_77
+  - first:
+      213: -8177264607287484510
+    second: Minotaur - Sprite Sheet_78
+  - first:
+      213: -581971498568800838
+    second: Minotaur - Sprite Sheet_79
+  - first:
+      213: -238705345638986877
+    second: Minotaur - Sprite Sheet_80
+  - first:
+      213: -7258881496079540625
+    second: Minotaur - Sprite Sheet_81
+  - first:
+      213: 8326879595044954717
+    second: Minotaur - Sprite Sheet_82
+  - first:
+      213: 3312074533954598478
+    second: Minotaur - Sprite Sheet_83
+  - first:
+      213: 4998571332109431824
+    second: Minotaur - Sprite Sheet_84
+  - first:
+      213: -7614816566186353422
+    second: Minotaur - Sprite Sheet_85
+  - first:
+      213: 8671972247999119488
+    second: Minotaur - Sprite Sheet_86
+  - first:
+      213: -6629845934778689806
+    second: Minotaur - Sprite Sheet_87
+  - first:
+      213: 7069715288704451351
+    second: Minotaur - Sprite Sheet_88
+  - first:
+      213: 2253949875454373368
+    second: Minotaur - Sprite Sheet_89
+  - first:
+      213: -2747378114340127972
+    second: Minotaur - Sprite Sheet_90
+  - first:
+      213: -911454508006649556
+    second: Minotaur - Sprite Sheet_91
+  - first:
+      213: 4598379701184795708
+    second: Minotaur - Sprite Sheet_92
+  - first:
+      213: 2426660621519338941
+    second: Minotaur - Sprite Sheet_93
+  - first:
+      213: 1231955414019876776
+    second: Minotaur - Sprite Sheet_94
+  - first:
+      213: 4755896594839753975
+    second: Minotaur - Sprite Sheet_95
+  - first:
+      213: 6676233659044796793
+    second: Minotaur - Sprite Sheet_96
+  - first:
+      213: -6050545565101906691
+    second: Minotaur - Sprite Sheet_97
+  - first:
+      213: 1078256434061021863
+    second: Minotaur - Sprite Sheet_98
+  - first:
+      213: 7118654684544125296
+    second: Minotaur - Sprite Sheet_99
+  - first:
+      213: -6426505796172835893
+    second: Minotaur - Sprite Sheet_100
+  - first:
+      213: -231709964321712838
+    second: Minotaur - Sprite Sheet_101
+  - first:
+      213: -8244621812385522195
+    second: Minotaur - Sprite Sheet_102
+  - first:
+      213: -2386038679489935164
+    second: Minotaur - Sprite Sheet_103
+  - first:
+      213: 371471515931954429
+    second: Minotaur - Sprite Sheet_104
+  - first:
+      213: 1148908358415070162
+    second: Minotaur - Sprite Sheet_105
+  - first:
+      213: 6531582719292884386
+    second: Minotaur - Sprite Sheet_106
+  - first:
+      213: 8836642596006229286
+    second: Minotaur - Sprite Sheet_107
+  - first:
+      213: 3295979381083695172
+    second: Minotaur - Sprite Sheet_108
+  - first:
+      213: 5745062583267079654
+    second: Minotaur - Sprite Sheet_109
+  - first:
+      213: -370134385579418215
+    second: Minotaur - Sprite Sheet_110
+  - first:
+      213: -466693227434956389
+    second: Minotaur - Sprite Sheet_111
+  - first:
+      213: -3881122942435717311
+    second: Minotaur - Sprite Sheet_112
+  - first:
+      213: -4994888274227490456
+    second: Minotaur - Sprite Sheet_113
+  - first:
+      213: 435628095085995054
+    second: Minotaur - Sprite Sheet_114
+  - first:
+      213: -7575511959065984110
+    second: Minotaur - Sprite Sheet_115
+  - first:
+      213: -4286342020335714121
+    second: Minotaur - Sprite Sheet_116
+  - first:
+      213: -3759126788117806630
+    second: Minotaur - Sprite Sheet_117
+  - first:
+      213: -3768335509562305569
+    second: Minotaur - Sprite Sheet_118
+  - first:
+      213: -8644788785254715843
+    second: Minotaur - Sprite Sheet_119
+  - first:
+      213: 1188053725365501380
+    second: Minotaur - Sprite Sheet_120
+  - first:
+      213: -1702802405272639447
+    second: Minotaur - Sprite Sheet_121
+  - first:
+      213: -2995095148520836017
+    second: Minotaur - Sprite Sheet_122
+  - first:
+      213: 8989047007328600786
+    second: Minotaur - Sprite Sheet_123
+  - first:
+      213: -7016906542029837183
+    second: Minotaur - Sprite Sheet_124
+  - first:
+      213: 8378644519105655528
+    second: Minotaur - Sprite Sheet_125
+  - first:
+      213: -5285536896176342436
+    second: Minotaur - Sprite Sheet_126
+  - first:
+      213: -1272827119333367692
+    second: Minotaur - Sprite Sheet_127
+  - first:
+      213: 9208306169249746968
+    second: Minotaur - Sprite Sheet_128
+  - first:
+      213: 787730159899701578
+    second: Minotaur - Sprite Sheet_129
+  - first:
+      213: -4226132011411440865
+    second: Minotaur - Sprite Sheet_130
+  - first:
+      213: 3201602839100737385
+    second: Minotaur - Sprite Sheet_131
+  - first:
+      213: -8688189606705164310
+    second: Minotaur - Sprite Sheet_132
+  - first:
+      213: 1822974879095659282
+    second: Minotaur - Sprite Sheet_133
+  - first:
+      213: -8421910970466746582
+    second: Minotaur - Sprite Sheet_134
+  - first:
+      213: -1402131994999990973
+    second: Minotaur - Sprite Sheet_135
+  - first:
+      213: -2617334938850060275
+    second: Minotaur - Sprite Sheet_136
+  - first:
+      213: 3263881652045837230
+    second: Minotaur - Sprite Sheet_137
+  - first:
+      213: -8633408648655012452
+    second: Minotaur - Sprite Sheet_138
+  - first:
+      213: 4540448349432537648
+    second: Minotaur - Sprite Sheet_139
+  - first:
+      213: -1080389721582050535
+    second: Minotaur - Sprite Sheet_140
+  - first:
+      213: 131265665735546184
+    second: Minotaur - Sprite Sheet_141
+  - first:
+      213: 6883998142667472277
+    second: Minotaur - Sprite Sheet_142
+  - first:
+      213: 1299344531665165919
+    second: Minotaur - Sprite Sheet_143
+  - first:
+      213: -4070288083862756956
+    second: Minotaur - Sprite Sheet_144
+  - first:
+      213: -1035529418249534145
+    second: Minotaur - Sprite Sheet_145
+  - first:
+      213: 5849270072699706220
+    second: Minotaur - Sprite Sheet_146
+  - first:
+      213: -4528987816214359770
+    second: Minotaur - Sprite Sheet_147
+  - first:
+      213: -1644391028080514895
+    second: Minotaur - Sprite Sheet_148
+  - first:
+      213: 3571469422894664376
+    second: Minotaur - Sprite Sheet_149
+  - first:
+      213: -1287779521750430117
+    second: Minotaur - Sprite Sheet_150
+  - first:
+      213: -8854923931514516132
+    second: Minotaur - Sprite Sheet_151
+  - first:
+      213: 3035808732246855289
+    second: Minotaur - Sprite Sheet_152
+  - first:
+      213: 339819168042174084
+    second: Minotaur - Sprite Sheet_153
+  - first:
+      213: 6668948099813310167
+    second: Minotaur - Sprite Sheet_154
+  - first:
+      213: -7324455928875228393
+    second: Minotaur - Sprite Sheet_155
+  - first:
+      213: -5650519685127339561
+    second: Minotaur - Sprite Sheet_156
+  - first:
+      213: 1524137670270535025
+    second: Minotaur - Sprite Sheet_157
+  - first:
+      213: -7167315180911867945
+    second: Minotaur - Sprite Sheet_158
+  - first:
+      213: 7727593134730513986
+    second: Minotaur - Sprite Sheet_159
+  - first:
+      213: -142656785080225331
+    second: Minotaur - Sprite Sheet_160
+  - first:
+      213: 1526798742313200956
+    second: Minotaur - Sprite Sheet_161
+  - first:
+      213: 4111795354214512030
+    second: Minotaur - Sprite Sheet_162
+  - first:
+      213: -4549973446581833851
+    second: Minotaur - Sprite Sheet_163
+  - first:
+      213: -8325513547543610452
+    second: Minotaur - Sprite Sheet_164
+  - first:
+      213: 7588237562030903502
+    second: Minotaur - Sprite Sheet_165
+  - first:
+      213: -8107560310154997203
+    second: Minotaur - Sprite Sheet_166
+  - first:
+      213: 3491740351568717470
+    second: Minotaur - Sprite Sheet_167
+  - first:
+      213: -4163607168767342082
+    second: Minotaur - Sprite Sheet_168
+  - first:
+      213: -3868743474166463590
+    second: Minotaur - Sprite Sheet_169
+  - first:
+      213: 5567753271437865502
+    second: Minotaur - Sprite Sheet_170
+  - first:
+      213: -3481276222226523653
+    second: Minotaur - Sprite Sheet_171
+  - first:
+      213: -3640073854441523767
+    second: Minotaur - Sprite Sheet_172
+  - first:
+      213: 7316264645519473018
+    second: Minotaur - Sprite Sheet_173
+  - first:
+      213: 7055521516799974821
+    second: Minotaur - Sprite Sheet_174
+  - first:
+      213: 5196040398157779823
+    second: Minotaur - Sprite Sheet_175
+  - first:
+      213: 6076604082559180561
+    second: Minotaur - Sprite Sheet_176
+  - first:
+      213: 8494418870449083572
+    second: Minotaur - Sprite Sheet_177
+  - first:
+      213: -5807640824515799406
+    second: Minotaur - Sprite Sheet_178
+  - first:
+      213: -3274066402217749339
+    second: Minotaur - Sprite Sheet_179
+  - first:
+      213: 8739773106268031950
+    second: Minotaur - Sprite Sheet_180
+  - first:
+      213: -8985983853417934579
+    second: Minotaur - Sprite Sheet_181
+  - first:
+      213: 115309734506660349
+    second: Minotaur - Sprite Sheet_182
+  - first:
+      213: -8726678318278728230
+    second: Minotaur - Sprite Sheet_183
+  - first:
+      213: 9062469323571094441
+    second: Minotaur - Sprite Sheet_184
+  - first:
+      213: -5579871919892065123
+    second: Minotaur - Sprite Sheet_185
+  - first:
+      213: -6955039249202857509
+    second: Minotaur - Sprite Sheet_186
+  - first:
+      213: -4540152049126913537
+    second: Minotaur - Sprite Sheet_187
+  - first:
+      213: -1150941644537830872
+    second: Minotaur - Sprite Sheet_188
+  - first:
+      213: 5542526810525499357
+    second: Minotaur - Sprite Sheet_189
+  - first:
+      213: -8771556443904167474
+    second: Minotaur - Sprite Sheet_190
+  - first:
+      213: 147588768555646563
+    second: Minotaur - Sprite Sheet_191
+  - first:
+      213: 5680880537400885703
+    second: Minotaur - Sprite Sheet_192
+  - first:
+      213: 1063058663113514328
+    second: Minotaur - Sprite Sheet_193
+  - first:
+      213: -622973762628332705
+    second: Minotaur - Sprite Sheet_194
+  - first:
+      213: -1423576326757675776
+    second: Minotaur - Sprite Sheet_195
+  - first:
+      213: 4745952137536403834
+    second: Minotaur - Sprite Sheet_196
+  - first:
+      213: -1035796190881481105
+    second: Minotaur - Sprite Sheet_197
+  - first:
+      213: 2107502618499482182
+    second: Minotaur - Sprite Sheet_198
+  - first:
+      213: 1932205428658020625
+    second: Minotaur - Sprite Sheet_199
+  - first:
+      213: -2991325000848603331
+    second: Minotaur - Sprite Sheet_200
+  - first:
+      213: 1364049120702095373
+    second: Minotaur - Sprite Sheet_201
+  - first:
+      213: -6437784573002312904
+    second: Minotaur - Sprite Sheet_202
+  - first:
+      213: -2785609023180419505
+    second: Minotaur - Sprite Sheet_203
+  - first:
+      213: 3527018216445845798
+    second: Minotaur - Sprite Sheet_204
+  - first:
+      213: 4357726242668559670
+    second: Minotaur - Sprite Sheet_205
+  - first:
+      213: 969370449780626010
+    second: Minotaur - Sprite Sheet_206
+  - first:
+      213: -861219591840886628
+    second: Minotaur - Sprite Sheet_207
+  - first:
+      213: -2486447685946851961
+    second: Minotaur - Sprite Sheet_208
+  - first:
+      213: -339626629738651067
+    second: Minotaur - Sprite Sheet_209
+  - first:
+      213: -1544284893833233978
+    second: Minotaur - Sprite Sheet_210
+  - first:
+      213: -1812981008163974494
+    second: Minotaur - Sprite Sheet_211
+  - first:
+      213: 2663660002115680984
+    second: Minotaur - Sprite Sheet_212
+  - first:
+      213: 4175863163111898131
+    second: Minotaur - Sprite Sheet_213
+  - first:
+      213: 837336911597280977
+    second: Minotaur - Sprite Sheet_214
+  - first:
+      213: -6600641537383060163
+    second: Minotaur - Sprite Sheet_215
+  - first:
+      213: 2234188709497017618
+    second: Minotaur - Sprite Sheet_216
+  - first:
+      213: -7298676727333168957
+    second: Minotaur - Sprite Sheet_217
+  - first:
+      213: 851499124831563656
+    second: Minotaur - Sprite Sheet_218
+  - first:
+      213: -1821519555326223847
+    second: Minotaur - Sprite Sheet_219
+  - first:
+      213: -2550472980499709212
+    second: Minotaur - Sprite Sheet_220
+  - first:
+      213: -1153140738881259201
+    second: Minotaur - Sprite Sheet_221
+  - first:
+      213: 2375130372696955422
+    second: Minotaur - Sprite Sheet_222
+  - first:
+      213: -3871754498000253272
+    second: Minotaur - Sprite Sheet_223
+  - first:
+      213: -8319229785076146459
+    second: Minotaur - Sprite Sheet_224
+  - first:
+      213: 6419571276336602988
+    second: Minotaur - Sprite Sheet_225
+  - first:
+      213: -4681412307728184456
+    second: Minotaur - Sprite Sheet_226
+  - first:
+      213: 8501989449525484715
+    second: Minotaur - Sprite Sheet_227
+  - first:
+      213: 6444915501745964090
+    second: Minotaur - Sprite Sheet_228
+  - first:
+      213: -8243551098446715828
+    second: Minotaur - Sprite Sheet_229
+  - first:
+      213: 180727067908107090
+    second: Minotaur - Sprite Sheet_230
+  - first:
+      213: 1145666543578152998
+    second: Minotaur - Sprite Sheet_231
+  - first:
+      213: -2145524626658743446
+    second: Minotaur - Sprite Sheet_232
+  - first:
+      213: -5433158419005403307
+    second: Minotaur - Sprite Sheet_233
+  - first:
+      213: 2141215503889358364
+    second: Minotaur - Sprite Sheet_234
+  - first:
+      213: 4550878698825787810
+    second: Minotaur - Sprite Sheet_235
+  - first:
+      213: -2451732618402729163
+    second: Minotaur - Sprite Sheet_236
+  - first:
+      213: 527038625680505185
+    second: Minotaur - Sprite Sheet_237
+  - first:
+      213: -1049510799900764911
+    second: Minotaur - Sprite Sheet_238
+  - first:
+      213: 92300328355673522
+    second: Minotaur - Sprite Sheet_239
+  - first:
+      213: 6101723565131671929
+    second: Minotaur - Sprite Sheet_240
+  - first:
+      213: -9214125717102498912
+    second: Minotaur - Sprite Sheet_241
+  - first:
+      213: 2872116388925821922
+    second: Minotaur - Sprite Sheet_242
+  - first:
+      213: -5564467408921403468
+    second: Minotaur - Sprite Sheet_243
+  - first:
+      213: -3461797165412663323
+    second: Minotaur - Sprite Sheet_244
+  - first:
+      213: 5368001619427330611
+    second: Minotaur - Sprite Sheet_245
+  - first:
+      213: -4601616665428947603
+    second: Minotaur - Sprite Sheet_246
+  - first:
+      213: -7216468300676936374
+    second: Minotaur - Sprite Sheet_247
+  - first:
+      213: 7128421624781605958
+    second: Minotaur - Sprite Sheet_248
+  - first:
+      213: -4174683158955260008
+    second: Minotaur - Sprite Sheet_249
+  - first:
+      213: -2192679878791193740
+    second: Minotaur - Sprite Sheet_250
+  - first:
+      213: 9131547767758012773
+    second: Minotaur - Sprite Sheet_251
+  - first:
+      213: -4565594501594977137
+    second: Minotaur - Sprite Sheet_252
+  - first:
+      213: -4723912528228745065
+    second: Minotaur - Sprite Sheet_253
+  - first:
+      213: 6079990018784634234
+    second: Minotaur - Sprite Sheet_254
+  - first:
+      213: 3123556090737354603
+    second: Minotaur - Sprite Sheet_255
+  - first:
+      213: 8843743377060058890
+    second: Minotaur - Sprite Sheet_256
+  - first:
+      213: -2935788979358926013
+    second: Minotaur - Sprite Sheet_257
+  - first:
+      213: -2451923914571182587
+    second: Minotaur - Sprite Sheet_258
+  - first:
+      213: -3328267062239844968
+    second: Minotaur - Sprite Sheet_259
+  - first:
+      213: 8190789741397711482
+    second: Minotaur - Sprite Sheet_260
+  - first:
+      213: -7108477975329324141
+    second: Minotaur - Sprite Sheet_261
+  - first:
+      213: 6176661937474582870
+    second: Minotaur - Sprite Sheet_262
+  - first:
+      213: 2492708326956126605
+    second: Mino_0
+  - first:
+      213: 5408319328179167470
+    second: Mino_1
+  - first:
+      213: -4487953353519795765
+    second: Mino_2
+  - first:
+      213: -3194683049704729131
+    second: Mino_3
+  - first:
+      213: -3187026910231221041
+    second: Mino_4
+  - first:
+      213: 5016643371771137518
+    second: Mino_5
+  - first:
+      213: 433889234366722375
+    second: Mino_6
+  - first:
+      213: -3461966129773172548
+    second: Mino_7
+  - first:
+      213: -7522676400542760792
+    second: Mino_8
+  - first:
+      213: 2898590568779576707
+    second: Mino_9
+  - first:
+      213: -7344362460646950348
+    second: Mino_10
+  - first:
+      213: 7515419756876782447
+    second: Mino_11
+  - first:
+      213: -1718955229382858494
+    second: Mino_12
+  - first:
+      213: -8420650850473650540
+    second: Mino_13
+  - first:
+      213: -8425807724151649384
+    second: Mino_14
+  - first:
+      213: 8524563936133382006
+    second: Mino_15
+  - first:
+      213: 3199403512283782002
+    second: Mino_16
+  - first:
+      213: 4028361208943142043
+    second: Mino_17
+  - first:
+      213: -4473742487232184813
+    second: Mino_18
+  - first:
+      213: -6232505317668947236
+    second: Mino_19
+  - first:
+      213: -8786815768841444796
+    second: Mino_20
+  - first:
+      213: -418527083567527583
+    second: Mino_21
+  - first:
+      213: -4784643189301188455
+    second: Mino_22
+  - first:
+      213: 3884220924511467733
+    second: Mino_23
+  - first:
+      213: 6866124617664557980
+    second: Mino_24
+  - first:
+      213: -8885596754346923926
+    second: Mino_25
+  - first:
+      213: 3326264287994694316
+    second: Mino_26
+  - first:
+      213: -454740528096492489
+    second: Mino_27
+  - first:
+      213: 5253369938182812065
+    second: Mino_28
+  - first:
+      213: 5620461386628767055
+    second: Mino_29
+  - first:
+      213: -565660282367593095
+    second: Mino_30
+  - first:
+      213: 1780052988947020271
+    second: Mino_31
+  - first:
+      213: -4310015125264933558
+    second: Mino_32
+  - first:
+      213: 7915735666369533741
+    second: Mino_33
+  - first:
+      213: 6264585363768743960
+    second: Mino_34
+  - first:
+      213: 9220319330586291669
+    second: Mino_35
+  - first:
+      213: -6912841269066486354
+    second: Mino_36
+  - first:
+      213: 7442900824601074169
+    second: Mino_37
+  - first:
+      213: 7577506859790092809
+    second: Mino_38
+  - first:
+      213: -8860287595168135101
+    second: Mino_39
+  - first:
+      213: 6451781006331957291
+    second: Mino_40
+  - first:
+      213: 5525104309580395271
+    second: Mino_41
+  - first:
+      213: 8660145094556676519
+    second: Mino_42
+  - first:
+      213: 539769308640378872
+    second: Mino_43
+  - first:
+      213: -1202836960727506963
+    second: Mino_44
+  - first:
+      213: 7757388497746352232
+    second: Mino_45
+  - first:
+      213: 8776965847894750741
+    second: Mino_46
+  - first:
+      213: 9033613107757595542
+    second: Mino_47
+  - first:
+      213: -6310542232980226901
+    second: Mino_48
+  - first:
+      213: 6492257261209153261
+    second: Mino_49
+  - first:
+      213: -2555131529094169045
+    second: Mino_50
+  - first:
+      213: -302080575826195720
+    second: Mino_51
+  - first:
+      213: -3837409080235633992
+    second: Mino_52
+  - first:
+      213: 6955385287373933624
+    second: Mino_53
+  - first:
+      213: -6526762461181633702
+    second: Mino_54
+  - first:
+      213: 8991608710135191782
+    second: Mino_55
+  - first:
+      213: -2866732115903912903
+    second: Mino_56
+  - first:
+      213: -2454844978988664376
+    second: Mino_57
+  - first:
+      213: 3476242555784583791
+    second: Mino_58
+  - first:
+      213: -6608909390911059518
+    second: Mino_59
+  - first:
+      213: -443570144452032694
+    second: Mino_60
+  - first:
+      213: 4083801480695534905
+    second: Mino_61
+  - first:
+      213: -1525194484895590225
+    second: Mino_62
+  - first:
+      213: -8588343273072397956
+    second: Mino_63
+  - first:
+      213: -4885250784618380269
+    second: Mino_64
+  - first:
+      213: 4347240409515098197
+    second: Mino_65
+  - first:
+      213: 1551765177861700559
+    second: Mino_66
+  - first:
+      213: -3493450468766021098
+    second: Mino_67
+  - first:
+      213: 1769817338938927108
+    second: Mino_68
+  - first:
+      213: -5127101900069268755
+    second: Mino_69
+  - first:
+      213: -5209935756602582120
+    second: Mino_70
+  - first:
+      213: -1065705794059005223
+    second: Mino_71
+  - first:
+      213: 6982916246199482198
+    second: Mino_72
+  - first:
+      213: 160007819214196259
+    second: Mino_73
+  - first:
+      213: 8883942389242018718
+    second: Mino_74
+  - first:
+      213: 2388689029634911831
+    second: Mino_75
+  - first:
+      213: -4690973665904674897
+    second: Mino_76
+  - first:
+      213: 4453292738401283134
+    second: Mino_77
+  - first:
+      213: 7894538027571012513
+    second: Mino_78
+  - first:
+      213: 7501594250222795155
+    second: Mino_79
+  - first:
+      213: 3046680038350841200
+    second: Mino_80
+  - first:
+      213: 2906420628491738914
+    second: Mino_81
+  - first:
+      213: -5592019229411894018
+    second: Mino_82
+  - first:
+      213: -7170760996847917441
+    second: Mino_83
+  - first:
+      213: 2596853640927210658
+    second: Mino_84
+  - first:
+      213: 8364814384606150770
+    second: Mino_85
+  - first:
+      213: 1324568150514070660
+    second: Mino_86
+  - first:
+      213: 5774457533319120743
+    second: Mino_87
+  - first:
+      213: -7491635840280283071
+    second: Mino_88
+  - first:
+      213: 2587341095074655387
+    second: Mino_89
+  - first:
+      213: -7372973645900037226
+    second: Mino_90
+  - first:
+      213: -5467838529668796939
+    second: Mino_91
+  - first:
+      213: -377638547203064596
+    second: Mino_92
+  - first:
+      213: 7619775505717271113
+    second: Mino_93
+  - first:
+      213: 308522968997720968
+    second: Mino_94
+  - first:
+      213: -758789431635612042
+    second: Mino_95
+  - first:
+      213: -5843916696382692133
+    second: Mino_96
+  - first:
+      213: 4745316503294073131
+    second: Mino_97
+  - first:
+      213: -5895427019239907780
+    second: Mino_98
+  - first:
+      213: 1523592879115177515
+    second: Mino_99
+  - first:
+      213: -7608225156397696808
+    second: Mino_100
+  - first:
+      213: 2100997620750951376
+    second: Mino_101
+  - first:
+      213: 8504936814931859708
+    second: Mino_102
+  - first:
+      213: 2199830952831842704
+    second: Mino_103
+  - first:
+      213: -5946012482672632775
+    second: Mino_104
+  - first:
+      213: 8639920549585354295
+    second: Mino_105
+  - first:
+      213: -8066482273919376564
+    second: Mino_106
+  - first:
+      213: -292575862535772677
+    second: Mino_107
+  - first:
+      213: 4406026065970739561
+    second: Mino_108
+  - first:
+      213: -8278340528654382913
+    second: Mino_109
+  - first:
+      213: 7472939577444012382
+    second: Mino_110
+  - first:
+      213: -8138280131494427912
+    second: Mino_111
+  - first:
+      213: 3221701201184898510
+    second: Mino_112
+  - first:
+      213: -152816219080426476
+    second: Mino_113
+  - first:
+      213: -1279216900859523249
+    second: Mino_114
+  - first:
+      213: 6258639374060881808
+    second: Mino_115
+  - first:
+      213: -7656956058468833047
+    second: Mino_116
+  - first:
+      213: 8490523284525221761
+    second: Mino_117
+  - first:
+      213: -6066141230683787080
+    second: Mino_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mino_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d0e43401e79220800000000000000
+      internalID: 2492708326956126605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1824
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0aff346c53e0b40800000000000000
+      internalID: 5408319328179167470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1824
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1fde2043697b1c0800000000000000
+      internalID: -4487953353519795765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1824
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5536441b43aa3d0800000000000000
+      internalID: -3194683049704729131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1824
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccae0629e765c3d0800000000000000
+      internalID: -3187026910231221041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed8c3b3192be9540800000000000000
+      internalID: 5016643371771137518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417b46b5fb750600800000000000000
+      internalID: 433889234366722375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8af62b520a4ffc0800000000000000
+      internalID: -3461966129773172548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04f69aba51a9790800000000000000
+      internalID: -7522676400542760792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3857761d3ccd93820800000000000000
+      internalID: 2898590568779576707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43abc6f0145931a90800000000000000
+      internalID: -7344362460646950348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd79253722c4860800000000000000
+      internalID: 7515419756876782447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1728
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a5d7835b0528e0800000000000000
+      internalID: -1718955229382858494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4965def7aa6d32b80800000000000000
+      internalID: -8420650850473650540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc2384484811b80800000000000000
+      internalID: -8425807724151649384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ff55e1cb55d4670800000000000000
+      internalID: 8524563936133382006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bdfc21b80966c20800000000000000
+      internalID: 3199403512283782002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1632
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94e4062d2d97e730800000000000000
+      internalID: 4028361208943142043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef3f729e21ae1c0800000000000000
+      internalID: -4473742487232184813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafb9f4f61b189a0800000000000000
+      internalID: -6232505317668947236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a76fdc95fe0680800000000000000
+      internalID: -8786815768841444796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c31fb5d7113af0800000000000000
+      internalID: -418527083567527583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998e5b49e58899db0800000000000000
+      internalID: -4784643189301188455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d835a2f95687e530800000000000000
+      internalID: 3884220924511467733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f57326ff594f50800000000000000
+      internalID: 6866124617664557980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a9cf64d400b480800000000000000
+      internalID: -8885596754346923926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caacdf22fb3492e20800000000000000
+      internalID: 3326264287994694316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c5d526ef60b9f0800000000000000
+      internalID: -454740528096492489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13a1f0028b7e840800000000000000
+      internalID: 5253369938182812065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d9ec74ad3effd40800000000000000
+      internalID: 5620461386628767055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975beed58fe5628f0800000000000000
+      internalID: -565660282367593095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93f8723c404b810800000000000000
+      internalID: 1780052988947020271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd50a3410cf24c0800000000000000
+      internalID: -4310015125264933558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2798d136a75add60800000000000000
+      internalID: 7915735666369533741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8181c88723740f650800000000000000
+      internalID: 6264585363768743960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd634f649725ff70800000000000000
+      internalID: 9220319330586291669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada1a8dd77a010a0800000000000000
+      internalID: -6912841269066486354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1344
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91fc4adde7a4760800000000000000
+      internalID: 7442900824601074169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acfd47756b82960800000000000000
+      internalID: 7577506859790092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3480432406fe90580800000000000000
+      internalID: -8860287595168135101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20570b64a4598950800000000000000
+      internalID: 6451781006331957291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f487a81d1dac40800000000000000
+      internalID: 5525104309580395271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1746084140f2870800000000000000
+      internalID: 8660145094556676519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffa2e8355ad7700800000000000000
+      internalID: 539769308640378872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def5029382aae4fe0800000000000000
+      internalID: -1202836960727506963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8685fd00db7c7ab60800000000000000
+      internalID: 7757388497746352232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5167081bfeb0ec970800000000000000
+      internalID: 8776965847894750741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b34366247dd5d70800000000000000
+      internalID: 9033613107757595542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfc1716437c68a0800000000000000
+      internalID: -6310542232980226901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee62d4e491291a50800000000000000
+      internalID: 6492257261209153261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef0f579695a8cd0800000000000000
+      internalID: -2555131529094169045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8558115bcecbf0800000000000000
+      internalID: -302080575826195720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b252b2e5c8cebac0800000000000000
+      internalID: -3837409080235633992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc6e1511e768060800000000000000
+      internalID: 6955385287373933624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b1aef2f184c65a0800000000000000
+      internalID: -6526762461181633702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e89ae67b7c98cc70800000000000000
+      internalID: 8991608710135191782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e75544525738d0800000000000000
+      internalID: -2866732115903912903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9bab87f73aeedd0800000000000000
+      internalID: -2454844978988664376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ad2a2cf281e3030800000000000000
+      internalID: 3476242555784583791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c00aacef6844a0800000000000000
+      internalID: -6608909390911059518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47c7f2cd4f18d9f0800000000000000
+      internalID: -443570144452032694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935521e4fc39ca830800000000000000
+      internalID: 4083801480695534905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d96262bb65dae0800000000000000
+      internalID: -1525194484895590225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71776fcb4310d880800000000000000
+      internalID: -8588343273072397956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148f186b4a143cb0800000000000000
+      internalID: -4885250784618380269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500f5aae10845c30800000000000000
+      internalID: 4347240409515098197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb7449253af88510800000000000000
+      internalID: 1551765177861700559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a87c8ce45c48fc0800000000000000
+      internalID: -3493450468766021098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40828cc2e77af8810800000000000000
+      internalID: 1769817338938927108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de214278cffd8d8b0800000000000000
+      internalID: -5127101900069268755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd815680792b7b0800000000000000
+      internalID: -5209935756602582120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d299060a3ad531f0800000000000000
+      internalID: -1065705794059005223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657360f245d48e060800000000000000
+      internalID: 6982916246199482198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0c898346783200800000000000000
+      internalID: 160007819214196259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3ecba88a1a4b70800000000000000
+      internalID: 8883942389242018718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ee2424404562120800000000000000
+      internalID: 2388689029634911831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa73a010e4056eeb0800000000000000
+      internalID: -4690973665904674897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2c39a6264dcd30800000000000000
+      internalID: 4453292738401283134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ee2f42880f8d60800000000000000
+      internalID: 7894538027571012513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39974a5b9340b1860800000000000000
+      internalID: 7501594250222795155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ec265a5bf74a20800000000000000
+      internalID: 3046680038350841200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1e19a92ea55820800000000000000
+      internalID: 2906420628491738914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc10cd73282562b0800000000000000
+      internalID: -5592019229411894018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7667ad9dd65c7c90800000000000000
+      internalID: -7170760996847917441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6521b0a0e90420800000000000000
+      internalID: 2596853640927210658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27007863d5ac51470800000000000000
+      internalID: 8364814384606150770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484ff2c07bfc16210800000000000000
+      internalID: 1324568150514070660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767801c388ef22050800000000000000
+      internalID: 5774457533319120743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148328945ec580890800000000000000
+      internalID: -7491635840280283071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ce1b4840518e320800000000000000
+      internalID: 2587341095074655387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cfc1688feda990800000000000000
+      internalID: -7372973645900037226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda5edb3d55e14b0800000000000000
+      internalID: -5467838529668796939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec777cfdbb52caf0800000000000000
+      internalID: -377638547203064596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a108e7371eeb960800000000000000
+      internalID: 7619775505717271113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88378247108184400800000000000000
+      internalID: 308522968997720968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee90c380d3875f0800000000000000
+      internalID: -758789431635612042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a22f1abc36eea0800000000000000
+      internalID: -5843916696382692133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2954adc730cad140800000000000000
+      internalID: 4745316503294073131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e17fe7c5c3f2ea0800000000000000
+      internalID: -5895427019239907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e89f5b6a3e42510800000000000000
+      internalID: 1523592879115177515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d879b5c7872a6690800000000000000
+      internalID: -7608225156397696808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32dca543e382d10800000000000000
+      internalID: 2100997620750951376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d72bd8fa970670800000000000000
+      internalID: 8504936814931859708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099737da89e578e10800000000000000
+      internalID: 2199830952831842704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c524c76258b7da0800000000000000
+      internalID: -5946012482672632775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_105
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef1ada6f927e770800000000000000
+      internalID: 8639920549585354295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ec042c191e0090800000000000000
+      internalID: -8066482273919376564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a3bb9dcf80fbf0800000000000000
+      internalID: -292575862535772677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693c45ec59552d30800000000000000
+      internalID: 4406026065970739561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb806d3562d6d1d80800000000000000
+      internalID: -8278340528654382913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51128dc3f635b760800000000000000
+      internalID: 7472939577444012382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2c7afb6550f0f80800000000000000
+      internalID: -8138280131494427912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd33155c28c5bc20800000000000000
+      internalID: 3221701201184898510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfac9557611edf0800000000000000
+      internalID: -152816219080426476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f8799910f4f3ee0800000000000000
+      internalID: -1279216900859523249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970c2cd9572bd650800000000000000
+      internalID: 6258639374060881808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a03a78070db590800000000000000
+      internalID: -7656956058468833047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mino_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3366229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870f4b41f564d570800000000000000
+      internalID: 8490523284525221761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

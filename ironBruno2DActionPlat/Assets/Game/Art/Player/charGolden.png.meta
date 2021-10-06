@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 0b2b571dc3d29e4498fc7bd2b8c0f017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7451814015391942948
+    second: charGolden_0
+  - first:
+      213: -1081015401857499157
+    second: charGolden_1
+  - first:
+      213: -4863976940350264118
+    second: charGolden_2
+  - first:
+      213: 1166930007830862389
+    second: charGolden_3
+  - first:
+      213: 4156896914294916962
+    second: charGolden_4
+  - first:
+      213: -8442921057416625634
+    second: charGolden_5
+  - first:
+      213: -7021643772669470816
+    second: charGolden_6
+  - first:
+      213: -1357917840223514843
+    second: charGolden_7
+  - first:
+      213: -2989914062419834069
+    second: charGolden_8
+  - first:
+      213: -4477017743219681775
+    second: charGolden_9
+  - first:
+      213: -6296775786721156188
+    second: charGolden_10
+  - first:
+      213: -3364707456435856231
+    second: charGolden_11
+  - first:
+      213: 137994852873268929
+    second: charGolden_12
+  - first:
+      213: -2088293900104762804
+    second: charGolden_13
+  - first:
+      213: -1733978521709876504
+    second: charGolden_14
+  - first:
+      213: 3900625489319961853
+    second: charGolden_15
+  - first:
+      213: -304775434345403273
+    second: charGolden_16
+  - first:
+      213: -1184270833134767542
+    second: charGolden_17
+  - first:
+      213: -4655884531146854290
+    second: charGolden_18
+  - first:
+      213: -7079284002350981944
+    second: charGolden_19
+  - first:
+      213: 2141428057384498416
+    second: charGolden_20
+  - first:
+      213: 792857612088306939
+    second: charGolden_21
+  - first:
+      213: 4328183836949475596
+    second: charGolden_22
+  - first:
+      213: 5045654030293573069
+    second: charGolden_23
+  - first:
+      213: -2795168127097103579
+    second: charGolden_24
+  - first:
+      213: 3072922038538940270
+    second: charGolden_25
+  - first:
+      213: -8582123062236641898
+    second: charGolden_26
+  - first:
+      213: 974876551093529029
+    second: charGolden_27
+  - first:
+      213: -6373934848594071221
+    second: charGolden_28
+  - first:
+      213: -7930517703381110226
+    second: charGolden_29
+  - first:
+      213: 2014995220848546934
+    second: charGolden_30
+  - first:
+      213: 169524853610286226
+    second: charGolden_31
+  - first:
+      213: 5993779986993880674
+    second: charGolden_32
+  - first:
+      213: 8305764146125324141
+    second: charGolden_33
+  - first:
+      213: 4665593782259327125
+    second: charGolden_34
+  - first:
+      213: -6983480536666082556
+    second: charGolden_35
+  - first:
+      213: -6147315515516837618
+    second: charGolden_36
+  - first:
+      213: 5179698799248964861
+    second: charGolden_37
+  - first:
+      213: -8169865232879281065
+    second: charGolden_38
+  - first:
+      213: 3983471334338320654
+    second: charGolden_0
+  - first:
+      213: -503762648915734393
+    second: charGolden_1
+  - first:
+      213: 7596501400930867660
+    second: charGolden_2
+  - first:
+      213: -2152791546015926934
+    second: charGolden_3
+  - first:
+      213: -511631192520418246
+    second: charGolden_4
+  - first:
+      213: 3999854193560550981
+    second: charGolden_5
+  - first:
+      213: 8588098901160091844
+    second: charGolden_6
+  - first:
+      213: -1318783669150100044
+    second: charGolden_7
+  - first:
+      213: 2623175692936745229
+    second: charGolden_8
+  - first:
+      213: -3047723142571333447
+    second: charGolden_9
+  - first:
+      213: 8320467866250979439
+    second: charGolden_10
+  - first:
+      213: -2991779910618929414
+    second: charGolden_11
+  - first:
+      213: -2036352570287155159
+    second: charGolden_12
+  - first:
+      213: 1128416002275069278
+    second: charGolden_13
+  - first:
+      213: 7894754103604957644
+    second: charGolden_14
+  - first:
+      213: -3168043094300456479
+    second: charGolden_15
+  - first:
+      213: 4237156969359190942
+    second: charGolden_16
+  - first:
+      213: 112966957491749491
+    second: charGolden_17
+  - first:
+      213: -4039305861853305753
+    second: charGolden_18
+  - first:
+      213: -5990887679108532100
+    second: charGolden_19
+  - first:
+      213: -3368363556066344426
+    second: charGolden_20
+  - first:
+      213: -418029686034472623
+    second: charGolden_21
+  - first:
+      213: 565285928518265394
+    second: charGolden_22
+  - first:
+      213: -7023625487346236174
+    second: charGolden_23
+  - first:
+      213: -926052437335901455
+    second: charGolden_24
+  - first:
+      213: -725163759428193916
+    second: charGolden_25
+  - first:
+      213: -5434809344718544069
+    second: charGolden_26
+  - first:
+      213: -8406966835193447222
+    second: charGolden_27
+  - first:
+      213: -700631269347576714
+    second: charGolden_28
+  - first:
+      213: -2314770672888702097
+    second: charGolden_29
+  - first:
+      213: -2386383001860814061
+    second: charGolden_30
+  - first:
+      213: 7936739980408864073
+    second: charGolden_31
+  - first:
+      213: 4211137949106502770
+    second: charGolden_32
+  - first:
+      213: -6108282083410880421
+    second: charGolden_33
+  - first:
+      213: 93099852737253824
+    second: charGolden_34
+  - first:
+      213: 1574438879312427977
+    second: charGolden_35
+  - first:
+      213: 4953343189441771347
+    second: charGolden_36
+  - first:
+      213: -5203368251461788981
+    second: charGolden_37
+  - first:
+      213: -6757664615692839036
+    second: charGolden_38
+  - first:
+      213: 9049699376776517865
+    second: charGolden_39
+  - first:
+      213: -3977821062141142888
+    second: charGolden_40
+  - first:
+      213: -7865692433654082411
+    second: charGolden_41
+  - first:
+      213: -3096038860442366307
+    second: charGolden_42
+  - first:
+      213: -3685977612473455339
+    second: charGolden_43
+  - first:
+      213: -9209939819494885145
+    second: charGolden_44
+  - first:
+      213: -5809799683130407863
+    second: charGolden_45
+  - first:
+      213: 912473819936441785
+    second: charGolden_46
+  - first:
+      213: 1494980432758095778
+    second: charGolden_47
+  - first:
+      213: 8387171662099820891
+    second: charGolden_48
+  - first:
+      213: 6251037198251009900
+    second: charGolden_49
+  - first:
+      213: 516213681811252109
+    second: charGolden_50
+  - first:
+      213: 8845940200094796925
+    second: charGolden_51
+  - first:
+      213: -948967778820527212
+    second: charGolden_52
+  - first:
+      213: 1461652661823481691
+    second: charGolden_53
+  - first:
+      213: -2703202412649545990
+    second: charGolden_54
+  - first:
+      213: 4014707663054108104
+    second: charGolden_55
+  - first:
+      213: -8827086992888927577
+    second: charGolden_56
+  - first:
+      213: -1329508013186790485
+    second: charGolden_57
+  - first:
+      213: -5712615439377071439
+    second: charGolden_58
+  - first:
+      213: 8839436357919745723
+    second: charGolden_59
+  - first:
+      213: -8526620705771138595
+    second: charGolden_60
+  - first:
+      213: -8634151343047038907
+    second: charGolden_61
+  - first:
+      213: 446822183056816224
+    second: charGolden_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 190
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charGolden_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09df20c212284730800000000000000
+      internalID: 3983471334338320654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78094443a864209f0800000000000000
+      internalID: -503762648915734393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9dd32b6c13c6960800000000000000
+      internalID: 7596501400930867660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b140be7fbf12e0800000000000000
+      internalID: -2152791546015926934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9fc1242256e8f0800000000000000
+      internalID: -511631192520418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e78886236528730800000000000000
+      internalID: 3999854193560550981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e19be27e0f2770800000000000000
+      internalID: 8588098901160091844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d8b87d3db2bde0800000000000000
+      internalID: -1318783669150100044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011fe00564676420800000000000000
+      internalID: 2623175692936745229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86c4903ff44b5d0800000000000000
+      internalID: -3047723142571333447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6821fcc07d387370800000000000000
+      internalID: 8320467866250979439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a86db5001b76d0800000000000000
+      internalID: -2991779910618929414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928949a502c6db3e0800000000000000
+      internalID: -2036352570287155159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc87e1060f8af00800000000000000
+      internalID: 1128416002275069278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc15e6e670dcf8d60800000000000000
+      internalID: 7894754103604957644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9871b3799d804d0800000000000000
+      internalID: -3168043094300456479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba93070d76dca30800000000000000
+      internalID: 4237156969359190942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37207ac69d6519100800000000000000
+      internalID: 112966957491749491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a41548b081f7c0800000000000000
+      internalID: -4039305861853305753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b87d95671cdca0800000000000000
+      internalID: -5990887679108532100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124b4e213b2141d0800000000000000
+      internalID: -3368363556066344426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e852273cd23af0800000000000000
+      internalID: -418029686034472623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aabd59e8c48d700800000000000000
+      internalID: 565285928518265394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4095ff4d1178e90800000000000000
+      internalID: -7023625487346236174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7535f6300623f0800000000000000
+      internalID: -926052437335901455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481bb432763bfe5f0800000000000000
+      internalID: -725163759428193916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e31222bda394b0800000000000000
+      internalID: -5434809344718544069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfdc59434745b80800000000000000
+      internalID: -8406966835193447222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b108929bd646f0800000000000000
+      internalID: -700631269347576714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1af1565840efd0800000000000000
+      internalID: -2314770672888702097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4e0cad4dd1eed0800000000000000
+      internalID: -2386383001860814061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d39e626f6f42e60800000000000000
+      internalID: 7936739980408864073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf8a437a7f07a30800000000000000
+      internalID: 4211137949106502770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b585966eec50b3ba0800000000000000
+      internalID: -6108282083410880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c19b03a2d1ca4100800000000000000
+      internalID: 93099852737253824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3bf9a1d789d510800000000000000
+      internalID: 1574438879312427977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f649036fcdb440800000000000000
+      internalID: 4953343189441771347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1318d42ce9c7b0800000000000000
+      internalID: -5203368251461788981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charGolden_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d66ee5d3f732a0800000000000000
+      internalID: -6757664615692839036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

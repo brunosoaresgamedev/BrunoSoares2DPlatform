@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Attack
+  - Bullet
+  - EnemyAttack
+  - Coin
+  - PlayerIsUp
+  - IsPlayerUpP
+  - MinotaurTag
+  - IsPlayerForward
+  - UIDamageText
+  - EnemyCanDamage
+  - Boat
+  - BoatIsland
+  - portalCanvas
+  - TpButton
+  - Ground
+  - Wall
+  - IronOre
+  - Miner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Ignore Layer
+  - Enemy
+  - IgnorePlayer
+  - Attack
+  - EnemyTriggerManager
+  - PlayerAttack
+  - Death
+  - Foregroung
+  - EndPosition
+  - PlayerIsUp
+  - IsPlayerUpP
+  - Minotaur
+  - IsPlayerForward
+  - HiddenCave
+  - TriggetFoward
+  - EnemyKnockBag
+  - KnockBackEffect
+  - EnemyCanDoDamage
+  - GroundCollider
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 605191131
+    locked: 0
+  - name: Ground
+    uniqueID: 2880798791
+    locked: 0
+  - name: Player
+    uniqueID: 1288076063
+    locked: 0
+  - name: Foreground
+    uniqueID: 127793887
+    locked: 0
