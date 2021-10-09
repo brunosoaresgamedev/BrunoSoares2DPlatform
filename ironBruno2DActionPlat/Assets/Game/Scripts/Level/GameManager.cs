@@ -10,10 +10,12 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
+    [SerializeField]
+    public int WeaponLevel0, WeaponLevel1, WeaponLevel2;
 
-    public int WeaponLevel;
+    [SerializeField]
     public int WeaponType;
-    public int WeaponTier;
+
 
 
 
@@ -72,8 +74,8 @@ public class GameManager : MonoBehaviour
         textOre = Coin.transform.GetChild(9).GetComponent<TextMeshProUGUI>();
         textCoin = Coin.transform.GetChild(8).GetComponent<TextMeshProUGUI>();
         ThePlayer = GameObject.Find("Player");
-        WeaponTier = 1;
-        WeaponType = 0;
+
+       
       //  GameObject spawnTransform = GameObject.Find("/SpawnPoint");
         //SpawnPosition = spawnTransform.GetComponent<Transform>();
 

@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: f6354e4c4ae7ddd43af8193c4d656ad3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7203376324906929307
+    second: ClavaT4+3_0
+  - first:
+      213: -734361248220245991
+    second: ClavaT4+3_1
+  - first:
+      213: 9064809965865605135
+    second: ClavaT4+3_2
+  - first:
+      213: -6142165210983647514
+    second: ClavaT4+3_3
+  - first:
+      213: -5496922049208000124
+    second: ClavaT4+3_4
+  - first:
+      213: 8004433073183720508
+    second: ClavaT4+3_5
+  - first:
+      213: 7264024114625199292
+    second: ClavaT4+3_6
+  - first:
+      213: -7173903161041045980
+    second: ClavaT4+3_7
+  - first:
+      213: -5050786394191852598
+    second: ClavaT4+3_0
+  - first:
+      213: 1289223250110146696
+    second: ClavaT4+3_1
+  - first:
+      213: -7935855809028075428
+    second: ClavaT4+3_2
+  - first:
+      213: -1331335118361750328
+    second: ClavaT4+3_3
+  - first:
+      213: 7024881207771702429
+    second: ClavaT4+3_4
+  - first:
+      213: -2767340821871293006
+    second: ClavaT4+3_5
+  - first:
+      213: -179066964151317732
+    second: ClavaT4+3_6
+  - first:
+      213: -4258608804137630548
+    second: ClavaT4+3_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +88,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -97,7 +145,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ClavaT4+3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb81d1e88008e9b0800000000000000
+      internalID: -5050786394191852598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886df227bd34e110800000000000000
+      internalID: 1289223250110146696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50592a003d2ed190800000000000000
+      internalID: -7935855809028075428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49b0973c5268de0800000000000000
+      internalID: -1331335118361750328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ac823d346d7160800000000000000
+      internalID: 7024881207771702429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8ceb3f2e6899d0800000000000000
+      internalID: -2767340821871293006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc0ca7b83d38df0800000000000000
+      internalID: -179066964151317732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClavaT4+3_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca486001bd166e4c0800000000000000
+      internalID: -4258608804137630548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

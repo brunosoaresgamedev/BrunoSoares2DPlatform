@@ -7,31 +7,28 @@ public class UpgradeItens : MonoBehaviour
 {
     [SerializeField]
     WeaponCostumize weaponCostumize;
+    [SerializeField]
+    int OreToNextLevelWeaponType0, OreToNextLevelWeaponType1, OreToNextLevelWeaponType2;
 
-    int OreToNextLevel;
-
-    bool GreatSwordT1Plus0;
     private void Awake()
     {
 
-        
     }
-    void ButtonClicked()
-    {
-        
 
-    }
     private void Update()
     {
-        OreToNextLevel = 100 * GameManager.instance.WeaponLevel;
+        OreToNextLevelWeaponType0 = 100 * GameManager.instance.WeaponLevel0;
+        OreToNextLevelWeaponType1 = 100 * GameManager.instance.WeaponLevel1;
+        OreToNextLevelWeaponType2 = 100 * GameManager.instance.WeaponLevel2;
     }
     public void UpgradeWeaponButton()
     {
-        if (GameManager.instance.IronOre >= OreToNextLevel && GameManager.instance.WeaponType == 0 && GameManager.instance.WeaponTier == 1)
+        if (GameManager.instance.IronOre >= OreToNextLevelWeaponType0 && GameManager.instance.WeaponType == 0)
         {
 
-            GameManager.instance.WeaponLevel++;
-            GameManager.instance.IronOre -= OreToNextLevel;
+            GameManager.instance.WeaponLevel0++;
+            GameManager.instance.IronOre -= OreToNextLevelWeaponType0;
+            weaponCostumize.skinAimNr++;
         }
         
     }

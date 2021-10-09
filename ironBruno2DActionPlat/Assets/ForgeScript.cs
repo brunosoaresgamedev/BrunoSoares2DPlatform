@@ -32,7 +32,7 @@ public class ForgeScript : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             ForgeLeanTwen.Close();
-            ForgeClavaCanvas.Close();
+          //  ForgeClavaCanvas.Close();
         }
     }
 }

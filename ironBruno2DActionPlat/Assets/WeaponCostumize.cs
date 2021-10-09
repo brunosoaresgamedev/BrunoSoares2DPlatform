@@ -4,8 +4,13 @@ using UnityEngine;
 
 public class WeaponCostumize : MonoBehaviour
 {
+    [SerializeField]
+    BulletSpriteCostumize bulletSpriteCostumize;
+    [SerializeField]
+    GameObject BulletPrefab;
     public int skinAimNr;
-    public Skins[] skins;
+   
+    public Skins[] skinsClava,skinsShuriken,skinsDagger;
 
     SpriteRenderer spriteRenderer;
     // Start is called before the first frame update
@@ -16,29 +21,42 @@ public class WeaponCostumize : MonoBehaviour
     private void Update()
     {
 
-        if (skinAimNr > skins.Length - 1) skinAimNr = 0;
-        else if (skinAimNr < 0) skinAimNr = skins.Length - 1;
+        if (skinAimNr > skinsClava.Length - 1) skinAimNr = skinsClava.Length - 1;
+        else if (skinAimNr < 0) skinAimNr = skinsClava.Length - 1;
 
-        skinAimNr = GameManager.instance.WeaponLevel;
+      //   = GameManager.instance.WeaponLevel1;
     }
 
     // Update is called once per frame
     void LateUpdate()
     {
-        SkinChoice();
+      
+            SkinChoice();
+        bulletSpriteCostumize.skinBulletNr = skinAimNr;
+       
     }
 
     void SkinChoice()
     {
-        if (spriteRenderer.sprite.name.Contains("ClavaT1+0"))
+        if (spriteRenderer.sprite.name.Contains("ClavaT1+0") && GameManager.instance.WeaponType ==0)
         {
             string spriteName = spriteRenderer.sprite.name;
             spriteName = spriteName.Replace("ClavaT1+0_", "");
             int spriteNr = int.Parse(spriteName);
 
-            spriteRenderer.sprite = skins[skinAimNr].sprites[spriteNr];
+            spriteRenderer.sprite = skinsClava[skinAimNr].sprites[spriteNr];
+        }
+
+        if (spriteRenderer.sprite.name.Contains("ClavaT1+0") && GameManager.instance.WeaponType == 1)
+        {
+            string spriteName = spriteRenderer.sprite.name;
+            spriteName = spriteName.Replace("ClavaT1+0_", "");
+            int spriteNr = int.Parse(spriteName);
+
+            spriteRenderer.sprite = skinsClava[skinAimNr].sprites[spriteNr];
         }
     }
+
 
     [System.Serializable]
     public struct Skins

@@ -22,7 +22,7 @@ public class PlayerAimWeapon : MonoBehaviour
     bool isMoving;
     public GameObject bullet;
     public GameObject bulletSpawner;
-    public GameObject BulletEffectStandart;
+  
     public Transform bulletPoint;
 
     bool canGetTouch;
@@ -59,8 +59,7 @@ public class PlayerAimWeapon : MonoBehaviour
     [SerializeField]
     GameObject buttonUIRangedAttack;
 
-    [SerializeField]
-    Animator animFX;
+
 
     private void Start()
     {
@@ -105,7 +104,7 @@ public class PlayerAimWeapon : MonoBehaviour
         {
             Vccam1.SetActive(true);
             Vccam2.SetActive(false);
-            BulletEffectStandart.SetActive(false);
+   
             clickcounter = 0;
             canrecoverstam = true;
             playerStaminaManager.currentStamina += 1;
@@ -147,7 +146,7 @@ public class PlayerAimWeapon : MonoBehaviour
                 Vccam2.SetActive(false);
                 canrecoverstam = true;
                 StopAllCoroutines();
-                BulletEffectStandart.SetActive(false);
+              
                 //    StartCoroutine(quickDelay1());
             }
         }
@@ -173,11 +172,11 @@ public class PlayerAimWeapon : MonoBehaviour
         Vccam2.SetActive(false);
         canrecoverstam = true;
         StopAllCoroutines();
-        BulletEffectStandart.SetActive(false);
+   
     }
     void StartAim()
     {
-        animFX.speed = 1 / BulletRateTime;
+
         isAlreadyAim = true;
         IsAiming = true;
         Vccam1.SetActive(false);
@@ -311,7 +310,7 @@ public class PlayerAimWeapon : MonoBehaviour
 
         }
         playerStaminaManager.LostStamPlayer(1);
-        BulletEffectStandart.SetActive(true);
+   
         Instantiate(bullet, bulletPoint.position, bulletPoint.rotation);
 
     }
@@ -326,10 +325,10 @@ public class PlayerAimWeapon : MonoBehaviour
     IEnumerator BulletDaggerEffect()
     {
         isShooting = true;
-        BulletEffectStandart.SetActive(true);
+   
         yield return new WaitForSeconds(0.1f);
         isShooting = false;
-        BulletEffectStandart.SetActive(false);
+
     }
 
 
