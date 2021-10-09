@@ -23,7 +23,7 @@ public class UpgradeItens : MonoBehaviour
     }
     public void UpgradeWeaponButton()
     {
-        if (GameManager.instance.IronOre >= OreToNextLevelWeaponType0 && GameManager.instance.WeaponType == 0)
+        if (GameManager.instance.IronOre >= OreToNextLevelWeaponType0)
         {
 
             GameManager.instance.WeaponLevel0++;

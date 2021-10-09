@@ -10,7 +10,7 @@ public class WeaponCostumize : MonoBehaviour
     GameObject BulletPrefab;
     public int skinAimNr;
    
-    public Skins[] skinsClava,skinsShuriken,skinsDagger;
+    public Skins[] skinsClava,skinsDagger;
 
     SpriteRenderer spriteRenderer;
     // Start is called before the first frame update
@@ -24,7 +24,10 @@ public class WeaponCostumize : MonoBehaviour
         if (skinAimNr > skinsClava.Length - 1) skinAimNr = skinsClava.Length - 1;
         else if (skinAimNr < 0) skinAimNr = skinsClava.Length - 1;
 
-      //   = GameManager.instance.WeaponLevel1;
+        if (skinAimNr > skinsDagger.Length - 1) skinAimNr = skinsDagger.Length - 1;
+        else if (skinAimNr < 0) skinAimNr = skinsDagger.Length - 1;
+
+        //   = GameManager.instance.WeaponLevel1;
     }
 
     // Update is called once per frame
@@ -53,7 +56,7 @@ public class WeaponCostumize : MonoBehaviour
             spriteName = spriteName.Replace("ClavaT1+0_", "");
             int spriteNr = int.Parse(spriteName);
 
-            spriteRenderer.sprite = skinsClava[skinAimNr].sprites[spriteNr];
+            spriteRenderer.sprite = skinsDagger[skinAimNr].sprites[spriteNr];
         }
     }
 

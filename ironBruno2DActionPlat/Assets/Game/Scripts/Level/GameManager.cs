@@ -19,7 +19,6 @@ public class GameManager : MonoBehaviour
 
 
 
-
     PlayerStaminaManager playerStaminaManager;
    
     PlayerHealthManager playerHealthManager;
@@ -321,4 +320,14 @@ public class GameManager : MonoBehaviour
     }
 
     
+
+    public void UseDagger()
+    {
+        WeaponType = 1;
+    }
+
+    public void UseClava()
+    {
+        WeaponType = 0;
+    }
 }
