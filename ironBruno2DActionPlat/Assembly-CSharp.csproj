@@ -280,11 +280,11 @@
     <Compile Include="Assets\PlayerStaminaBar.cs" />
     <Compile Include="Assets\PlayerStaminaManager.cs" />
     <Compile Include="Assets\RecoveryGem.cs" />
-    <Compile Include="Assets\SfourLeague.cs" />
     <Compile Include="Assets\TriggerManager.cs" />
     <Compile Include="Assets\UIButton.cs" />
     <Compile Include="Assets\UIManagerBruno.cs" />
     <Compile Include="Assets\UI_Shop.cs" />
+    <Compile Include="Assets\WallJump.cs" />
     <Compile Include="Assets\WeaponCostumize.cs" />
     <Compile Include="Assets\daggerSpawn.cs" />
     <Compile Include="Assets\deathfx.cs" />

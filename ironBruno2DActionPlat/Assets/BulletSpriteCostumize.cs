@@ -7,7 +7,7 @@ public class BulletSpriteCostumize : MonoBehaviour
 
     public int skinBulletNr;
 
-    public Skins[] skinsClava, skinsShuriken, skinsDagger;
+    public Skins[] skinsClava, skinsDagger;
 
     SpriteRenderer spriteRenderer;
     // Start is called before the first frame update
@@ -17,9 +17,12 @@ public class BulletSpriteCostumize : MonoBehaviour
     }
     private void Update()
     {
-
+      
         if (skinBulletNr > skinsClava.Length - 1) skinBulletNr = skinsClava.Length - 1;
         else if (skinBulletNr < 0) skinBulletNr = skinsClava.Length - 1;
+
+        if (skinBulletNr > skinsDagger.Length - 1) skinBulletNr = skinsDagger.Length - 1;
+        else if (skinBulletNr < 0) skinBulletNr = skinsDagger.Length - 1;
 
         //   = GameManager.instance.WeaponLevel1;
     }
@@ -32,6 +35,7 @@ public class BulletSpriteCostumize : MonoBehaviour
 
 
     }
+
 
     void SkinChoice()
     {
@@ -50,7 +54,7 @@ public class BulletSpriteCostumize : MonoBehaviour
             spriteName = spriteName.Replace("ClavaT1+0_", "");
             int spriteNr = int.Parse(spriteName);
 
-            spriteRenderer.sprite = skinsClava[skinBulletNr].sprites[spriteNr];
+            spriteRenderer.sprite = skinsDagger[skinBulletNr].sprites[spriteNr];
         }
     }
 

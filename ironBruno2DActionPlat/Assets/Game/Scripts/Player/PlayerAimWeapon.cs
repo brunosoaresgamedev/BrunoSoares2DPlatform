@@ -81,8 +81,33 @@ public class PlayerAimWeapon : MonoBehaviour
     private void FixedUpdate()
     {
 
+        if (GameManager.instance.WeaponType == 0)
+        {
+           
+            if(GameManager.instance.WeaponLevel0 >= 10)
+            {
+                BulletRateTime = 1f / ((GameManager.instance.WeaponLevel0) / 10);
+            }
+            else
+            {
+                BulletRateTime = 1.2f;
+            }
+        }
+      
+        if (GameManager.instance.WeaponType == 1)
+        {
+            if (GameManager.instance.WeaponLevel0 >= 5)
+            {
+                BulletRateTime = 1f / ((GameManager.instance.WeaponLevel0) / 5);
+            }
+            else
+            {
+                BulletRateTime = 0.8f;
+            }
+        
+        }
 
-
+          
         if (playerInput.IsUsingTouchAny)
         {
             HandleShooting();
@@ -309,8 +334,15 @@ public class PlayerAimWeapon : MonoBehaviour
             StartCoroutine(BulletRate());
 
         }
-        playerStaminaManager.LostStamPlayer(1);
-   
+        if(GameManager.instance.WeaponType == 0)
+        {
+            playerStaminaManager.LostStamPlayer(10);
+        }
+        if (GameManager.instance.WeaponType == 1)
+        {
+            playerStaminaManager.LostStamPlayer(1);
+        }
+
         Instantiate(bullet, bulletPoint.position, bulletPoint.rotation);
 
     }

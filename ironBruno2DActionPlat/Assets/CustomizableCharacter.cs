@@ -16,14 +16,17 @@ public class CustomizableCharacter : MonoBehaviour
     }
     private void Update()
     {
-        if (skinNr > skins.Length - 1) skinNr = 0;
+        if (skinNr > skins.Length - 1) skinNr = skins.Length - 1;
         else if (skinNr < 0) skinNr = skins.Length - 1;
+
+        skinNr = GameManager.instance.ArmorLevel;
     }
 
     // Update is called once per frame
     void LateUpdate()
     {
         SkinChoice();
+        
     }
 
     void SkinChoice()

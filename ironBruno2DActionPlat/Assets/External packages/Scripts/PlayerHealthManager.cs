@@ -64,7 +64,7 @@ public class PlayerHealthManager : MonoBehaviour
 	// Use this for initialization
 	private void Awake()
 	{
-		GameObject spawnTransform = GameObject.Find("/boatInIsland");
+		GameObject spawnTransform = GameObject.Find("/Portal");
 		if(spawnTransform!=null)
 		SpawnPosition = spawnTransform.GetComponent<Transform>();
 

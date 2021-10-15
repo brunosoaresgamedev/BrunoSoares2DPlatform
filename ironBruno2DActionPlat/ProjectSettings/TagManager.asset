@@ -23,6 +23,9 @@ TagManager:
   - Wall
   - IronOre
   - Miner
+  - ClavaBullet
+  - DaggerBullet
+  - Forge
   layers:
   - Default
   - TransparentFX

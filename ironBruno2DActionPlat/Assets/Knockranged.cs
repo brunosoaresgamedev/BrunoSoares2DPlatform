@@ -65,8 +65,33 @@ public class Knockranged : MonoBehaviour
                 dir = -1;
             //  Debug.Log(dir);
 
-            movement2D.currentVelocity.x = dir * knockForce;
-            enemyHealthManager1.TakeDamage(1);
+          
+            if(GameManager.instance.WeaponType == 0)
+            {
+                if(GameManager.instance.WeaponLevel0 >= 1)
+                {
+                    enemyHealthManager1.TakeDamage(2 * (GameManager.instance.WeaponLevel0));
+                    movement2D.currentVelocity.x = dir * knockForce * (GameManager.instance.WeaponLevel0 / (GameManager.instance.WeaponLevel0 -1));
+                }
+                else
+                {
+                    enemyHealthManager1.TakeDamage(2);
+                    movement2D.currentVelocity.x = dir * knockForce;
+                }
+       
+            }
+            if (GameManager.instance.WeaponType == 1)
+            {
+                if (GameManager.instance.WeaponLevel0 >= 1)
+                {
+                    enemyHealthManager1.TakeDamage(1 * (GameManager.instance.WeaponLevel0));
+                   
+                }
+                else
+                {
+                    enemyHealthManager1.TakeDamage(1);
+                }
+            }
             enemyHealthManager1.applyDamage();
             movement2D.currentVelocity.y = knockForce / 5;
         }

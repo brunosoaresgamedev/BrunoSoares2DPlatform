@@ -33,9 +33,10 @@ public class WeaponCostumize : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-      
+        skinAimNr = GameManager.instance.WeaponLevel0;
             SkinChoice();
         bulletSpriteCostumize.skinBulletNr = skinAimNr;
+       
        
     }
 

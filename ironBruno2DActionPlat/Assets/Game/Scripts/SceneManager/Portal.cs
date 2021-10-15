@@ -23,7 +23,7 @@ public class Portal : MonoBehaviour
     Button PortalButton;
 
 
-    bool IsUsingPortal;
+   public bool IsUsingPortal;
     enum DestinationIdentifier
     {
         A,B,C,D,E
@@ -78,6 +78,7 @@ public class Portal : MonoBehaviour
     public void USePortalButton()
     {
         StartCoroutine(Transition());
+        
     }
 
     private IEnumerator Transition()
@@ -99,6 +100,7 @@ public class Portal : MonoBehaviour
 
             Portal otherPortal = getOtherPortal();
             yield return SceneManager.LoadSceneAsync(sceneToLoad);
+            GameManager.instance.IsLoadedScene = sceneToLoad;
             otherPortal = getOtherPortal();
             UpdatePlayer(otherPortal);
 
@@ -107,7 +109,7 @@ public class Portal : MonoBehaviour
             yield return fader.FadeIn(fadeInTime);
             Destroy(gameObject);
             yield return fader.FadeIn(fadeInTime);
-
+            GameManager.instance.RunAwake();
             IsUsingPortal = false;
         }
       
@@ -134,4 +136,5 @@ public class Portal : MonoBehaviour
 
         return null;
     }
+
 }

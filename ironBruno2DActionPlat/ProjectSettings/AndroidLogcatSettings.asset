@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "330064539e4d4587",
         "name": "com.BrunoSoaresGamedev.mobile2dAction",
-        "processId": 7585,
+        "processId": 25807,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -456,6 +456,12 @@
             "deviceId": "330064539e4d4587",
             "name": "com.BrunoSoaresGamedev.mobile2dAction",
             "processId": 7585,
+            "exited": false
+        },
+        {
+            "deviceId": "330064539e4d4587",
+            "name": "com.BrunoSoaresGamedev.mobile2dAction",
+            "processId": 25807,
             "exited": false
         },
         {

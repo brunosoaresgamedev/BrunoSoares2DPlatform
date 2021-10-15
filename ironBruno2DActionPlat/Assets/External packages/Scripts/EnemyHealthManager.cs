@@ -65,7 +65,7 @@ public class EnemyHealthManager : MonoBehaviour
 		if (enemieSlimeAIController != null)
 		SelfGameObject = GameObject.Find("NewSlime");
 
-		levelText1 = SelfGameObject.transform.GetChild(0).transform.GetChild(0).GetComponent<Text>();
+	//	levelText1 = SelfGameObject.transform.GetChild(0).transform.GetChild(0).GetComponent<Text>();
 
 		PlayerGameObject = GameObject.Find("Player");
 		xpManager = PlayerGameObject.GetComponent<XpManager>();
@@ -88,7 +88,7 @@ public class EnemyHealthManager : MonoBehaviour
 		while (true)
 		{
 			LevelAi =	xpManager.level + (Random.Range(-1, 1));
-			//levelText1.text = LevelAi.ToString();
+			levelText1.text = LevelAi.ToString();
 			yield return new WaitForSeconds(5);
 
 		}

@@ -7,15 +7,20 @@ using System.Runtime.Serialization.Formatters.Binary;
 using TMPro;
 using Platformer2D.Character;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     [SerializeField]
-    public int WeaponLevel0, WeaponLevel1, WeaponLevel2;
+    public int WeaponLevel0;
+
+    [SerializeField]
+    public int ArmorLevel;
 
     [SerializeField]
     public int WeaponType;
 
+    public int IsLoadedScene;
 
 
 
@@ -46,6 +51,8 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     bool CanResetLvl;
 
+    [SerializeField]
+    Portal portal;
 
    public GameObject ThePlayer;
    public GameObject Boat;
@@ -63,35 +70,44 @@ public class GameManager : MonoBehaviour
 
     public int IsMinerDead;
 
+    public int Defense;
+    public int Attack;
 
     private void Awake()
     {
-        Boat = GameObject.Find("boat");
-        Coin = GameObject.Find("CanvasXP");
-        textMinerMax = Coin.transform.GetChild(11).GetComponent<TextMeshProUGUI>();
-        textMiner = Coin.transform.GetChild(10).GetComponent<TextMeshProUGUI>();
-        textOre = Coin.transform.GetChild(9).GetComponent<TextMeshProUGUI>();
-        textCoin = Coin.transform.GetChild(8).GetComponent<TextMeshProUGUI>();
-        ThePlayer = GameObject.Find("Player");
+      //  portal = GameObject.Find("Portal").GetComponent<Portal>();
 
-       
-      //  GameObject spawnTransform = GameObject.Find("/SpawnPoint");
-        //SpawnPosition = spawnTransform.GetComponent<Transform>();
-
-        ThePlayer = GameObject.Find("/Character/Player");
-
-        playerTransform = ThePlayer.GetComponent<Transform>();
         
-        playerStaminaManager = ThePlayer.GetComponent<PlayerStaminaManager>();
-        playerHealthManager = ThePlayer.GetComponent<PlayerHealthManager>();
-        xpManager = ThePlayer.GetComponent<XpManager>();
-        CharacterStatsManager = ThePlayer.GetComponent<CharacterStatsManager>();
-        characterMovement2D = ThePlayer.GetComponent<CharacterMovement2D>();
+            Boat = GameObject.Find("boat");
+            Coin = GameObject.Find("CanvasXP");
+            textMinerMax = Coin.transform.GetChild(11).GetComponent<TextMeshProUGUI>();
+            textMiner = Coin.transform.GetChild(10).GetComponent<TextMeshProUGUI>();
+            textOre = Coin.transform.GetChild(9).GetComponent<TextMeshProUGUI>();
+            textCoin = Coin.transform.GetChild(8).GetComponent<TextMeshProUGUI>();
+            //      ThePlayer = GameObject.Find("Player");
 
 
-        if (CanResetLvl)
-            PlayerPrefs.DeleteAll();
-        Load();
+
+            //  GameObject spawnTransform = GameObject.Find("/SpawnPoint");
+            //SpawnPosition = spawnTransform.GetComponent<Transform>();
+
+            ThePlayer = GameObject.Find("/Character/Player");
+
+            playerTransform = ThePlayer.GetComponent<Transform>();
+
+            playerStaminaManager = ThePlayer.GetComponent<PlayerStaminaManager>();
+            playerHealthManager = ThePlayer.GetComponent<PlayerHealthManager>();
+            xpManager = ThePlayer.GetComponent<XpManager>();
+            CharacterStatsManager = ThePlayer.GetComponent<CharacterStatsManager>();
+            characterMovement2D = ThePlayer.GetComponent<CharacterMovement2D>();
+
+
+            if (CanResetLvl)
+                PlayerPrefs.DeleteAll();
+           if(ThePlayer != null)
+            Load();
+        
+       
 
 
         if (instance == null)
@@ -113,22 +129,31 @@ public class GameManager : MonoBehaviour
         Coin = GameObject.Find("CanvasXP");
         textMinerMax = Coin.transform.GetChild(11).GetComponent<TextMeshProUGUI>();
         textMiner = Coin.transform.GetChild(10).GetComponent<TextMeshProUGUI>();
-        textCoin = Coin.transform.GetChild(8).GetComponent<TextMeshProUGUI>();
         textOre = Coin.transform.GetChild(9).GetComponent<TextMeshProUGUI>();
-        ThePlayer = GameObject.Find("Player");
-       
+        textCoin = Coin.transform.GetChild(8).GetComponent<TextMeshProUGUI>();
+        //      ThePlayer = GameObject.Find("Player");
+
+
+
+        //  GameObject spawnTransform = GameObject.Find("/SpawnPoint");
+        //SpawnPosition = spawnTransform.GetComponent<Transform>();
 
         ThePlayer = GameObject.Find("/Character/Player");
 
-   
+        playerTransform = ThePlayer.GetComponent<Transform>();
 
         playerStaminaManager = ThePlayer.GetComponent<PlayerStaminaManager>();
         playerHealthManager = ThePlayer.GetComponent<PlayerHealthManager>();
         xpManager = ThePlayer.GetComponent<XpManager>();
         CharacterStatsManager = ThePlayer.GetComponent<CharacterStatsManager>();
         characterMovement2D = ThePlayer.GetComponent<CharacterMovement2D>();
+
+
         if (CanResetLvl)
+            PlayerPrefs.DeleteAll();
+        if (ThePlayer != null)
             Load();
+
     }
     private void Start()
     {
@@ -141,7 +166,6 @@ public class GameManager : MonoBehaviour
     private void Update()
     {
 
-
         if (ThePlayer == null)
             RunAwake();
 
@@ -150,6 +174,8 @@ public class GameManager : MonoBehaviour
         textMiner.text = CurrentMining.ToString();
         textCoin.text = coin.ToString();
         textOre.text = IronOre.ToString();
+
+   
 
         if(CurrentMining > maxMining)
         {
@@ -202,112 +228,121 @@ public class GameManager : MonoBehaviour
    
     private void Save()
     {
-        if (ThePlayer == null)
+        if(ThePlayer == null)
             return;
-        int CoinAmount = coin;
+        
+        
+            int CoinAmount = coin;
 
-        if(playerTransform != null)
-        {
-            Vector3 playerPosition = playerTransform.position;
+            if (ThePlayer != null)
+            {
+                Vector3 playerPosition = playerTransform.position;
 
-            PlayerPrefs.SetFloat("playerpositionX", playerPosition.x);
-            PlayerPrefs.SetFloat("playerpositionY", playerPosition.y);
-        }
+                PlayerPrefs.SetFloat("playerpositionX", playerPosition.x);
+                PlayerPrefs.SetFloat("playerpositionY", playerPosition.y);
+            }
+
+
+
+            PlayerPrefs.SetInt("WeaponLevel0Amount", WeaponLevel0);
+            PlayerPrefs.SetInt("ArmorLevelAmount", ArmorLevel);
+
+            PlayerPrefs.SetInt("MaxMiningAmount", maxMining);
+            PlayerPrefs.SetInt("OreT1Amount", IronOre);
+
+            PlayerPrefs.SetInt("levelAmount", levelAmount);
+            PlayerPrefs.SetInt("TargetXPAmount", targetXPAmount);
+            PlayerPrefs.SetInt("CurrentXPAmount", currentXPAmount);
+
+            PlayerPrefs.SetFloat("StartingHealthAmount", playerHealthManager.startingHealth);
+            PlayerPrefs.SetFloat("currentHealthAmount", playerHealthManager.currentHealth);
+
+            PlayerPrefs.SetInt("StartingStamAmount", playerStaminaManager.startingStamina);
+            PlayerPrefs.SetInt("currentStamAmount", playerStaminaManager.currentStamina);
+
+
+            PlayerPrefs.SetFloat("CurrentJumpHeightAmount", characterMovement2D.maxJumpHeight);
+            PlayerPrefs.SetFloat("CurrentSpeedAmount", characterMovement2D.MaxGroundSpeed);
+
+            PlayerPrefs.SetInt("CurrentPoints", CharacterStatsManager.StatsPoint);
+
+            PlayerPrefs.SetInt("coinAmount", coin);
+
+            PlayerPrefs.Save();
+            //  Debug.Log("saved");
         
 
-
-    
-        PlayerPrefs.SetInt("MaxMiningAmount", maxMining);
-        PlayerPrefs.SetInt("OreT1Amount", IronOre);
-
-        PlayerPrefs.SetInt("levelAmount", levelAmount);
-         PlayerPrefs.SetInt("TargetXPAmount", targetXPAmount);
-         PlayerPrefs.SetInt("CurrentXPAmount", currentXPAmount);
-
-        PlayerPrefs.SetFloat("StartingHealthAmount", playerHealthManager.startingHealth);
-        PlayerPrefs.SetFloat("currentHealthAmount", playerHealthManager.currentHealth);
-
-        PlayerPrefs.SetInt("StartingStamAmount", playerStaminaManager.startingStamina);
-        PlayerPrefs.SetInt("currentStamAmount", playerStaminaManager.currentStamina);
-
-
-        PlayerPrefs.SetFloat("CurrentJumpHeightAmount", characterMovement2D.maxJumpHeight);
-        PlayerPrefs.SetFloat("CurrentSpeedAmount", characterMovement2D.MaxGroundSpeed);
-
-        PlayerPrefs.SetInt("CurrentPoints", CharacterStatsManager.StatsPoint);
-
-       
-
-        PlayerPrefs.SetInt("coinAmount", coin);
-
-        PlayerPrefs.Save();
-      //  Debug.Log("saved");
 
     }
     public void Load()
     {
-        
+        if (ThePlayer == null)
+            return;
+
         if (PlayerPrefs.HasKey("playerpositionX"))
-        {
-                      float playerPositionX = PlayerPrefs.GetFloat("playerpositionX");
-                      float playerPositionY = PlayerPrefs.GetFloat("playerpositionY");
-              Vector3 playerPosition = new Vector3(playerPositionX, playerPositionY);
-            //   CodeMonkey.CMDebug.TextPopupMouse("" + playerPosition);
-         
-            int MaxMiningAmount = PlayerPrefs.GetInt("MaxMiningAmount", 0);
-            int OreT1Amount = PlayerPrefs.GetInt("OreT1Amount", 0);
+            {
+                float playerPositionX = PlayerPrefs.GetFloat("playerpositionX");
+                float playerPositionY = PlayerPrefs.GetFloat("playerpositionY");
+                Vector3 playerPosition = new Vector3(playerPositionX, playerPositionY);
+                //   CodeMonkey.CMDebug.TextPopupMouse("" + playerPosition);
 
-            int CoinAmount = PlayerPrefs.GetInt("coinAmount",0);
+                int MaxMiningAmount = PlayerPrefs.GetInt("MaxMiningAmount", 0);
+                int OreT1Amount = PlayerPrefs.GetInt("OreT1Amount", 0);
 
-            float JumpHeightAmount = PlayerPrefs.GetFloat("CurrentJumpHeightAmount", 0);
-            float SpeedAmount = PlayerPrefs.GetFloat("CurrentSpeedAmount", 0);
+                int CoinAmount = PlayerPrefs.GetInt("coinAmount", 0);
 
-            int LevelAmount = PlayerPrefs.GetInt("levelAmount", 0);
-            int TargetXPAmount = PlayerPrefs.GetInt("TargetXPAmount", 0);
-            int CurrentXPAmount = PlayerPrefs.GetInt("CurrentXPAmount", 0);
+                float JumpHeightAmount = PlayerPrefs.GetFloat("CurrentJumpHeightAmount", 0);
+                float SpeedAmount = PlayerPrefs.GetFloat("CurrentSpeedAmount", 0);
 
-            float CurrentHealthAmount = PlayerPrefs.GetFloat("currentHealthAmount", 0);
-            float StartingHealthAmount = PlayerPrefs.GetFloat("StartingHealthAmount", 0);
+                int LevelAmount = PlayerPrefs.GetInt("levelAmount", 0);
+                int TargetXPAmount = PlayerPrefs.GetInt("TargetXPAmount", 0);
+                int CurrentXPAmount = PlayerPrefs.GetInt("CurrentXPAmount", 0);
 
-            int CurrentStamAmount = PlayerPrefs.GetInt("currentStamAmount", 0);
-            int StartingStamAmount = PlayerPrefs.GetInt("StartingStamAmount",200);
+                float CurrentHealthAmount = PlayerPrefs.GetFloat("currentHealthAmount", 0);
+                float StartingHealthAmount = PlayerPrefs.GetFloat("StartingHealthAmount", 0);
+
+                int CurrentStamAmount = PlayerPrefs.GetInt("currentStamAmount", 0);
+                int StartingStamAmount = PlayerPrefs.GetInt("StartingStamAmount", 200);
 
 
-            characterMovement2D.maxJumpHeight = JumpHeightAmount;
-            characterMovement2D.MaxGroundSpeed = SpeedAmount;
+                int WeaponLevel0Amount = PlayerPrefs.GetInt("WeaponLevel0Amount", 0);
 
-            playerHealthManager.startingHealth = StartingHealthAmount;
-            playerHealthManager.currentHealth = CurrentHealthAmount;
+                int ArmorLevelAmount = PlayerPrefs.GetInt("ArmorLevelAmount", 0);
 
-            playerStaminaManager.startingStamina = StartingStamAmount;
-            playerStaminaManager.currentStamina = CurrentStamAmount;
 
-            levelAmount = LevelAmount;
-            targetXPAmount = TargetXPAmount;
-            currentXPAmount = CurrentXPAmount;
+                characterMovement2D.maxJumpHeight = JumpHeightAmount;
+                characterMovement2D.MaxGroundSpeed = SpeedAmount;
 
-            IronOre = OreT1Amount;
+                playerHealthManager.startingHealth = StartingHealthAmount;
+                playerHealthManager.currentHealth = CurrentHealthAmount;
+
+                playerStaminaManager.startingStamina = StartingStamAmount;
+                playerStaminaManager.currentStamina = CurrentStamAmount;
+
+                levelAmount = LevelAmount;
+                targetXPAmount = TargetXPAmount;
+                currentXPAmount = CurrentXPAmount;
+
+                IronOre = OreT1Amount;
+
+                maxMining = MaxMiningAmount;
+
+                WeaponLevel0 = WeaponLevel0Amount;
+
+            ArmorLevel = ArmorLevelAmount;
+
+                int StatsPointAmount = PlayerPrefs.GetInt("CurrentPoints", 0);
+
+                if (ThePlayer != null)
+                    playerTransform.transform.SetPositionAndRotation(playerPosition, Quaternion.Euler(new Vector3(0, 0, 0)));
+
+                coin = CoinAmount;
+
+                xpManager.LoadSetValues();
+                CharacterStatsManager.StatsPoint = StatsPointAmount;
+            }
+
         
-            maxMining = MaxMiningAmount;
-
-
-
-
-            int StatsPointAmount = PlayerPrefs.GetInt("CurrentPoints", 0);
-
-            playerTransform.transform.SetPositionAndRotation(playerPosition, Quaternion.Euler(new Vector3(0, 0, 0)));
-
-            coin = CoinAmount;
-
-            xpManager.LoadSetValues();
-            CharacterStatsManager.StatsPoint = StatsPointAmount;
-
-        }
-        else
-        {
-         //   Debug.Log("no save");
-            //no safe avalable
-        }
     }
     
     
